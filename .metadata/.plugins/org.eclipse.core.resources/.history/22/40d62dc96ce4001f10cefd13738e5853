@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One-House</title>
+    <link rel="stylesheet" href="style_gpt.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo">🏡 <span>One-House</span></div>
+        <nav>
+            <ul>
+                <li><a href="#">지도 보기</a></li>
+                <li><a href="#">지하철노선도</a></li>
+                <li><a href="#">커뮤니티</a></li>
+                <li><a href="#">마이페이지</a></li>
+            </ul>
+        </nav>
+        <div class="login">🔑 로그인</div>
+    </header>
+    
+    <section class="search-section">
+        <select id="region-select">
+            <option value="">시/도 선택</option>
+            <option value="서울">서울</option>
+            <option value="경기도">경기</option>
+            <option value="부산">부산</option>
+            <option value="대구">대구</option>
+            <option value="인천">인천</option>
+            <option value="광주">광주</option>
+            <option value="대전">대전</option>
+            <option value="울산">울산</option>
+        </select>
+        <select id="district-select">
+            <option value="">시/군/구 선택</option>
+        </select>
+        <input type="text" id="search-box" placeholder="검색어 입력">
+        <button id="search-btn" onclick="">🔍</button>
+    </section>
+    
+    <section class="card-container" id="card-container">
+        <div class="card">
+            <img src="https://image.neoflat.net/VG1fmSLPDlbVOAuYcn9HQal0hZE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/1cfc0902-0c71-4482-a5d8-2c5d87d764f9.jpg" alt="상품 이미지">
+            <h3>여의도 스테이</h3>
+            <p>지역 또는 가까운 지하철역: 대방역 도보 1분 (신길동)</p>
+            <p>서울 영등포구 여의대방로62길 4 신한빌딩 3~4층</p>
+            <p>월세 45~60만원</p>
+            <p>⭐️⭐️⭐️⭐️⭐️</p>
+        </div>
+        <div class="card">
+            <img src="https://image.neoflat.net/btzL5VI9EdHFp90MPjoEAEEflvU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/80b98949-683c-4e0b-88af-c65e71a1c944.jpg" alt="상품 이미지">
+            <h3>스테이엔영등포점</h3>
+            <p>지역 또는 가까운 지하철역: 대방역 도보 6분 (신길동)</p>
+            <p>서울 영등포구 영등포로84길 21</p>
+            <p>월세 34-42만원</p>
+            <p>⭐️⭐️⭐️⭐️⭐️</p>
+        </div>
+        <div class="card">
+            <img src="https://image.neoflat.net/TnnsYiu30Rk5z3_KphR-A872QGk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/409600b1-1323-4cff-8dc9-84096d5dbffc" alt="상품 이미지">
+            <h3>구디생활</h3>
+            <p>지역 또는 가까운 지하철역: 구로디지털단지역 도보 7분 (대림동)</p>
+            <p>서울 영등포구 시흥대로 629 2층</p>
+            <p>월세 36-45만원</p>
+            <p>⭐️⭐️⭐️⭐️⭐️</p>
+        </div>
+        <div class="card">
+            <img src="https://image.neoflat.net/VG1fmSLPDlbVOAuYcn9HQal0hZE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/1cfc0902-0c71-4482-a5d8-2c5d87d764f9.jpg" alt="상품 이미지">
+            <h3>여의도 스테이</h3>
+            <p>지역 또는 가까운 지하철역: 대방역 도보 1분 (신길동)</p>
+            <p>서울 영등포구 여의대방로62길 4 신한빌딩 3~4층</p>
+            <p>월세 45~60만원</p>
+            <p>⭐️⭐️⭐️⭐️⭐️</p>
+        </div>
+        <div class="card">
+            <img src="https://image.neoflat.net/btzL5VI9EdHFp90MPjoEAEEflvU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/80b98949-683c-4e0b-88af-c65e71a1c944.jpg" alt="상품 이미지">
+            <h3>스테이엔영등포점</h3>
+            <p>지역 또는 가까운 지하철역: 대방역 도보 6분 (신길동)</p>
+            <p>서울 영등포구 영등포로84길 21</p>
+            <p>월세 34-42만원</p>
+            <p>⭐️⭐️⭐️⭐️⭐️</p>
+        </div>
+        <div class="card">
+            <img src="https://image.neoflat.net/TnnsYiu30Rk5z3_KphR-A872QGk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/409600b1-1323-4cff-8dc9-84096d5dbffc" alt="상품 이미지">
+            <h3>구디생활</h3>
+            <p>지역 또는 가까운 지하철역: 구로디지털단지역 도보 7분 (대림동)</p>
+            <p>서울 영등포구 시흥대로 629 2층</p>
+            <p>월세 36-45만원</p>
+            <p>⭐️⭐️⭐️⭐️⭐️</p>
+        </div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One-House</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo">🏡 <span>One-House</span></div>
+        <nav>
+            <ul>
+                <li><a href="#">지도 보기</a></li>
+                <li><a href="#">지하철노선도</a></li>
+                <li><a href="#">커뮤니티</a></li>
+                <li><a href="#">마이페이지</a></li>
+            </ul>
+        </nav>
+        <div class="login">🔑 로그인</div>
+    </header>
+    
+    <section class="search-section">
+        <select id="region-select">
+            <option value="">시도 선택</option>
+            <option value="서울">서울</option>
+            <option value="부산">부산</option>
+        </select>
+        <select id="district-select">
+            <option value="">시/군/구 선택</option>
+        </select>
+        <input type="text" id="search-box" placeholder="검색어 입력">
+        <button id="search-btn">🔍</button>
+    </section>
+    
+    <section class="card-container" id="card-container">
+        <!-- 카드 리스트가 여기에 동적으로 추가됨 -->
+    </section>
+</body>
+</html>

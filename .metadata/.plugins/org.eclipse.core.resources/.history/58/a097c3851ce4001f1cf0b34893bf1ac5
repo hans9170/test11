@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* reset */
+*{margin:0; padding: 0}
+
+html{height:100%;}
+body {height:100%; font-family:'Malgun Gothic','맑은 고딕',sans-serif; font-size:16px; letter-spacing:-1px; color:#444; white-space:normal; word-wrap:break-word;}
+
+.box_inner {
+	width: 1050px;    /* 컨텐츠가 들어가는 영역 */
+	margin: 0 auto;   /* 중앙 배치 */
+}
+

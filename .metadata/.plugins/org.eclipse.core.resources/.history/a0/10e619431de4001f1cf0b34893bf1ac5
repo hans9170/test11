@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* reset */
+*{margin:0; padding: 0}
+
+.box_inner {
+	width: 1050px;    /* 컨텐츠가 들어가는 영역 */
+	margin: 0 auto;   /* 중앙 배치 */
+}
+header{
+	position: absolute;
+	left: 0; top: 0;
+	width: 100%; height: 113px;
+	background: rgba(0,0,0,0.5);
+	z-index: 100;
+}
+
+.icon {
+	float: left;
+	
+}
+.logo{
+	float:left;
+}
+h1{
+	text-align: center;
+}

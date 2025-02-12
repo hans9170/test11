@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One-House</title>
+    <link rel="stylesheet" href="style_gpt.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo">🏡 <span>One-House</span></div>
+        <nav>
+            <ul>
+                <li><a href="#">지도 보기</a></li>
+                <li><a href="#">지하철노선도</a></li>
+                <li><a href="#">커뮤니티</a></li>
+                <li><a href="#">마이페이지</a></li>
+            </ul>
+        </nav>
+        <div class="login">🔑 로그인</div>
+    </header>
+    
+    <section class="search-section">
+        <select id="region-select">
+            <option value="">시도 선택</option>
+            <option value="서울">서울</option>
+            <option value="부산">부산</option>
+        </select>
+        <select id="district-select">
+            <option value="">시/군/구 선택</option>
+        </select>
+        <input type="text" id="search-box" placeholder="검색어 입력">
+        <button id="search-btn" onclick="">🔍</button>
+    </section>
+    
+    <section class="card-container" id="card-container">
+        <div class="card">
+            <img src="image.png" alt="상품 이미지">
+            <h3>한빛고시원</h3>
+            <p>지역 또는 가까운 지하철역</p>
+            <p>월세 30~50만원</p>
+            <p>⭐️⭐️⭐️⭐️⭐️ 360 items add</p>
+        </div>
+        <div class="card">
+            <img src="image.png" alt="상품 이미지">
+            <h3></h3>
+            <p>지역 또는 가까운 지하철역</p>
+            <p>월세 30~50만원</p>
+            <p>⭐️⭐️⭐️⭐️⭐️ 360 items add</p>
+        </div>
+        <div class="card">
+            <img src="image.png" alt="상품 이미지">
+            <h3>스카샤</h3>
+            <p>지역 또는 가까운 지하철역</p>
+            <p>월세 30~50만원</p>
+            <p>⭐️⭐️⭐️⭐️⭐️ 360 items add</p>
+        </div>
+        <div class="card">
+            <img src="image.png" alt="상품 이미지">
+            <h3>스카샤</h3>
+            <p>지역 또는 가까운 지하철역</p>
+            <p>월세 30~50만원</p>
+            <p>⭐️⭐️⭐️⭐️⭐️ 360 items add</p>
+        </div>
+        <div class="card">
+            <img src="image.png" alt="상품 이미지">
+            <h3>스카샤</h3>
+            <p>지역 또는 가까운 지하철역</p>
+            <p>월세 30~50만원</p>
+            <p>⭐️⭐️⭐️⭐️⭐️ 360 items add</p>
+        </div>
+        <div class="card">
+            <img src="image.png" alt="상품 이미지">
+            <h3>스카샤</h3>
+            <p>지역 또는 가까운 지하철역</p>
+            <p>월세 30~50만원</p>
+            <p>⭐️⭐️⭐️⭐️⭐️ 360 items add</p>
+        </div>
+    </section>
+</body>
+</html>

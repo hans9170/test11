@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<!-- 
+    수정할 것
+        1. 추천고시원 슬라이딩 모션(버튼 있고)
+        2. 별점 아이콘 수정
+        3. 시군구까지 체크하고 바로 검색 가능하게
+-->
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One-House</title>
+    <link rel="stylesheet" href="style_main.css">
+    <script defer src="main.js"></script>
+    <link rel='stylesheet' href="../swiper/swiper.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo"><a href="main.html"><img src="../img/logo.png"></a></div>
+        <nav>
+            <ul>
+                <li><a href="#">지도 보기</a></li>
+                <li><a href="#">지하철노선도</a></li>
+                <li><a href="#">커뮤니티</a></li>
+                <li><a href="#">마이페이지</a></li>
+            </ul>
+        </nav>
+        <div class="login-container">
+            <div class="login"><a href="#">로그인</a></div>
+        </div>
+    </header>
+    <div class='body-container'>
+    <section class="search-section">
+        <div class="select-group">
+            <select id="region-select">
+                <option value="">시도 선택</option>
+                <option value="서울">서울</option>
+                <option value="경기도">경기도</option>
+                <option value="부산">부산</option>
+                <option value="대구">대구</option>
+                <option value="인천">인천</option>
+                <option value="광주">광주</option>
+                <option value="대전">대전</option>
+                <option value="울산">울산</option>
+                <option value="세종">세종</option>
+            </select>
+            <select id="district-select">
+                <option value="">시/군/구 선택</option>
+            </select>
+        </div>
+        <div class="search-group">
+            <input type="text" id="search-box" placeholder="검색어 입력">
+            <button id="search-btn" onclick="">🔍</button>
+        </div>
+    </section>
+    <h2>추천 고시원</h2>
+    <section class="card-container" id="recommend">
+    <div class="swiper">
+        <div class="swiper-wrapper">
+            <div class="card swiper-slide">
+                <img class="card-img" src="https://image.neoflat.net/VG1fmSLPDlbVOAuYcn9HQal0hZE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/1cfc0902-0c71-4482-a5d8-2c5d87d764f9.jpg" alt="고시원 이미지지">
+                <img class="heart" id="heart" src="../icon/heart.svg">
+                <h3>여의도 스테이</h3>
+                <p>대방역 도보 1분 (신길동)</p>
+                <p>서울 영등포구 여의대방로62길 4 신한빌딩 3~4층</p>
+                <p>월세 45~60만원</p>
+                <img class="starRating" src="../icon/star_fill.svg">
+            </div>
+            <div class="card swiper-slide">
+                <img class="card-img" src="https://image.neoflat.net/btzL5VI9EdHFp90MPjoEAEEflvU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/80b98949-683c-4e0b-88af-c65e71a1c944.jpg" alt="고시원 이미지">
+                <img class="heart" src="../icon/heart.svg">
+                <h3>스테이엔영등포점</h3>
+                <p>대방역 도보 6분 (신길동)</p>
+                <p>서울 영등포구 영등포로84길 21</p>
+                <p>월세 34-42만원</p>
+                <p>⭐️⭐️⭐️⭐️⭐️</p>
+            </div>
+            <div class="card swiper-slide">
+                <img class="card-img" src="https://image.neoflat.net/TnnsYiu30Rk5z3_KphR-A872QGk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/409600b1-1323-4cff-8dc9-84096d5dbffc" alt="고시원 이미지">
+                <img class="heart"  id="heart" src="../icon/heart.svg">
+                <h3>구디생활</h3>
+                <p>구로디지털단지역 도보 7분 (대림동)</p>
+                <p>서울 영등포구 시흥대로 629 2층</p>
+                <p>월세 36-45만원</p>
+                <p>⭐️⭐️⭐️⭐️⭐️</p>
+            </div>
+            <div class="card swiper-slide">
+                <img class="card-img" src="https://image.neoflat.net/VG1fmSLPDlbVOAuYcn9HQal0hZE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/1cfc0902-0c71-4482-a5d8-2c5d87d764f9.jpg" alt="고시원 이미지지">
+                <img class="heart" id="heart" src="../icon/heart.svg">
+                <h3>여의도 스테이</h3>
+                <p>대방역 도보 1분 (신길동)</p>
+                <p>서울 영등포구 여의대방로62길 4 신한빌딩 3~4층</p>
+                <p>월세 45~60만원</p>
+                <img class="starRating" src="../icon/star_fill.svg">
+            </div>
+            <div class="card swiper-slide">
+                <img class="card-img" src="https://image.neoflat.net/btzL5VI9EdHFp90MPjoEAEEflvU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/80b98949-683c-4e0b-88af-c65e71a1c944.jpg" alt="고시원 이미지">
+                <img class="heart" src="../icon/heart.svg">
+                <h3>스테이엔영등포점</h3>
+                <p>대방역 도보 6분 (신길동)</p>
+                <p>서울 영등포구 영등포로84길 21</p>
+                <p>월세 34-42만원</p>
+                <p>⭐️⭐️⭐️⭐️⭐️</p>
+            </div>
+            <div class="card swiper-slide">
+                <img class="card-img" src="https://image.neoflat.net/TnnsYiu30Rk5z3_KphR-A872QGk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/409600b1-1323-4cff-8dc9-84096d5dbffc" alt="고시원 이미지">
+                <img class="heart"  id="heart" src="../icon/heart.svg">
+                <h3>구디생활</h3>
+                <p>구로디지털단지역 도보 7분 (대림동)</p>
+                <p>서울 영등포구 시흥대로 629 2층</p>
+                <p>월세 36-45만원</p>
+                <p>⭐️⭐️⭐️⭐️⭐️</p>
+            </div>
+        </div>
+        <div class='swiper-button-prev'></div>
+		<div class='swiper-button-next'></div>
+		<div class='swiper-pagination'></div>
+    </div>
+    </section>
+    <h2>일반 고시원</h2>
+    <section calss="card-container" id="common">
+    <div class="swiper">
+        <div class="swiper-wrapper">
+            <div class="card swiper-slide">
+                <img class="card-img" src="https://image.neoflat.net/CkHm9YpUeDg2ELxldHEarXwKv1E=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/35f708de-223f-4183-8da0-42d7da55cc32.png" alt="고시원원 이미지">
+                <img class="heart" id="heart" src="../icon/heart.svg">
+                <h3>아지레지던스 원룸텔 영등포점</h3>
+                <p>영등포역 도보 3분 (영등포동3가)</p>
+                <p>서울 영등포구 영중로4길 8 3~4층</p>
+                <p>월세 55-70만원</p>
+                <p>⭐️⭐️⭐️⭐️</p>
+            </div>
+            <div class="card swiper-slide">
+                <img class="card-img" src="https://image.neoflat.net/HKMEhpW8xLKvyRN6uTgIXiNFHWM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/a6b6dd84-7e2b-4923-aadc-b751419c2924.jpg" alt="고시원 이미지">
+                <img class="heart" id="heart" src="../icon/heart.svg">
+                <h3>새롬하우스</h3>
+                <p>신길역 도보 5분 (신길동)</p>
+                <p>서울 영등포구 영등포로72길 3 2층</p>
+                <p>월세 40-48만원</p>
+                <p>⭐️⭐️⭐️⭐️⭐️</p>
+            </div>
+            <div class="card swiper-slide">
+                <img class="card-img" src="https://image.neoflat.net/AG3sLmmVy6wkRcpiwpcZdjC4iCY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/d4522dd7-cd7e-41bd-8d61-cb15944a43b9.jpg" alt="고시원 이미지">
+                <img class="heart" id="heart" src="../icon/heart.svg">
+                <h3>해피하우스 대방점</h3>
+                <p>신길역 도보 7분 (신길동)</p>
+                <p>서울 영등포구 도신로64길 16</p>
+                <p>월세 28-60만원</p>
+                <p>⭐️⭐️⭐️</p>
+            </div>
+            <div class="card swiper-slide">
+                <img class="card-img" src="https://image.neoflat.net/CkHm9YpUeDg2ELxldHEarXwKv1E=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/35f708de-223f-4183-8da0-42d7da55cc32.png" alt="고시원원 이미지">
+                <img class="heart" id="heart" src="../icon/heart.svg">
+                <h3>아지레지던스 원룸텔 영등포점</h3>
+                <p>영등포역 도보 3분 (영등포동3가)</p>
+                <p>서울 영등포구 영중로4길 8 3~4층</p>
+                <p>월세 55-70만원</p>
+                <p>⭐️⭐️⭐️⭐️</p>
+            </div>
+            <div class="card swiper-slide">
+                <img class="card-img" src="https://image.neoflat.net/HKMEhpW8xLKvyRN6uTgIXiNFHWM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/a6b6dd84-7e2b-4923-aadc-b751419c2924.jpg" alt="고시원 이미지">
+                <img class="heart" id="heart" src="../icon/heart.svg">
+                <h3>새롬하우스</h3>
+                <p>신길역 도보 5분 (신길동)</p>
+                <p>서울 영등포구 영등포로72길 3 2층</p>
+                <p>월세 40-48만원</p>
+                <p>⭐️⭐️⭐️⭐️⭐️</p>
+            </div>
+            <div class="card swiper-slide">
+                <img class="card-img" src="https://image.neoflat.net/AG3sLmmVy6wkRcpiwpcZdjC4iCY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/d4522dd7-cd7e-41bd-8d61-cb15944a43b9.jpg" alt="고시원 이미지">
+                <img class="heart" id="heart" src="../icon/heart.svg">
+                <h3>해피하우스 대방점</h3>
+                <p>신길역 도보 7분 (신길동)</p>
+                <p>서울 영등포구 도신로64길 16</p>
+                <p>월세 28-60만원</p>
+                <p>⭐️⭐️⭐️</p>
+            </div>
+        </div>
+        <div class='swiper-button-prev'></div>
+        <div class='swiper-button-next'></div>
+        <div class='swiper-pagination'></div>
+    </div>
+    </section>
+    </div>
+    <footer>
+        <p>
+            &copy;One-House All rights reserved.<br>
+            contact: teamc@gmail.com<br>
+        </p>
+    </footer>
+</body>
+</html>

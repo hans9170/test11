@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel='stylesheet' href="./swiper.min.css">
+</head>
+<body>
+	<h1>swiper학습</h1>
+	<br><br>
+	
+	<div class='swiper'>
+		<div class='swiper-wrapper'>
+			<div class='swiper-slider' style="background: blue">슬라이드1</div>
+			<div class='swiper-slider' style="background: green">슬라이드2</div>
+			<div class='swiper-slider' style="background: red">슬라이드3</div>
+		</div>
+		<div class='swiper-button-prev'></div>
+		<div class='swiper-button-next'></div>
+		
+		<div class='swiper_pagination'></div>
+	</div>
+	
+	<script type="text/javascript">
+		
+	
+	</script>
+</body>
+</html>

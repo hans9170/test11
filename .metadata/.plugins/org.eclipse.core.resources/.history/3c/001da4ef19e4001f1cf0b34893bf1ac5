@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* reset */
+*{margin:0; padding: 0}
+
+#wrap{}
+.boxinner{
+	margin: 100px, auto
+}
+
+
+
+header{}

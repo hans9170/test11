@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One-House 마이페이지</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+
+    <header>
+        <h1 class="logo">One-House</h1>
+        <nav>
+            <ul>
+                <li><a href="#">지역정보노드</a></li>
+                <li><a href="#">커뮤니티</a></li>
+                <li><a href="#">채용정보</a></li>
+                <li><a href="#">마이페이지</a></li>
+                <li><a href="#">로그아웃</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="welcome">
+            <h2><span class="nickname">닉네임</span>님 환영합니다!</h2>
+            <button class="edit-profile">닉네임 변경</button>
+        </section>
+
+        <section class="recent">
+            <h3>최근에 본 곳</h3>
+            <div class="listings">
+                <!-- 동적으로 추가될 부분 -->
+            </div>
+        </section>
+
+        <section class="favorites">
+            <h3>찜목록</h3>
+            <button class="compare">비교하기</button>
+            <button class="edit">편집</button>
+            <div class="listings">
+                <!-- 동적으로 추가될 부분 -->
+            </div>
+        </section>
+
+        <section class="reviews">
+            <h3>리뷰 관리</h3>
+            <ul class="review-list">
+                <!-- 리뷰 리스트 동적 추가 -->
+            </ul>
+        </section>
+    </main>
+
+</body>
+</html>

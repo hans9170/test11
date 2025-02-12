@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="./common.css">
+</head>
+<body>
+	<div id='wrap'>
+	<header>
+		<div class='icon'><img src="#"></div>
+		<div class='logo'><h1>One-House</h1></div>
+		<nav>
+	    	<ul>
+	        	<li><a href="#">지역별</a></li>
+	            <li><a href="#">커뮤니티</a></li>
+	            <li><a href="#">채용정보</a></li>
+	            <li><a href="#">마이페이지</a></li>
+	            <li><a href="#">로그아웃</a></li>
+	        </ul>
+	    </nav>
+	</header>
+	<main>
+		<section class='serch'>
+			<div>시/도 선택</div>
+			<div>시/군/구 선택</div>
+			<div>검색창</div>
+		</section>
+		<section class='list_main'>
+			<div class='list'>
+				
+			</div>
+			<div class='list'></div>
+			<div class='list'></div>
+			<div class='list'></div>
+			<div class='list'></div>
+			<div class='list'></div>
+		</section>
+	</main>
+	</div>
+</body>
+</html>

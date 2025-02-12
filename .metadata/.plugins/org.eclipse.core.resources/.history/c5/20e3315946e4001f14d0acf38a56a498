@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+<title>OneHouse</title>
+<link rel="stylesheet" href="./common.css">
+</head>
+<body>
+	<div id='wrap'>
+	<header id='header'>
+		<div class="header_area box_inner clear">
+			<div class='icon'><img src="#"></div>
+			<div class='logo clear'><h1>One-House</h1></div>
+			<div class='nav'>
+				<nav>
+			    	<ul>
+			        	<li><a href="#">지역별</a></li>
+			            <li><a href="#">커뮤니티</a></li>
+			            <li><a href="#">채용정보</a></li>
+			            <li><a href="#">마이페이지</a></li>
+			            <li><a href="#">로그아웃</a></li>
+			        </ul>
+			    </nav>
+		    </div>
+	    </div>
+	</header>
+	<main id='container'>
+		<div>
+		<section class='serch clear'>
+			<div>시/도 선택</div>
+			<div>시/군/구 선택</div>
+			<div>검색창</div>
+		</section>
+		</div>
+		<section class='list_main clear'>
+			<div class='list'>
+				
+			</div>
+			<div class='list'></div>
+			<div class='list'></div>
+			<div class='list'></div>
+			<div class='list'></div>
+			<div class='list'></div>
+		</section>
+	</main>
+	</div>
+	<footer>
+	
+	</footer>
+</body>
+</html>

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One-House</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            background-color: #ff914d;
+            color: white;
+            font-weight: bold;
+        }
+        .logo span {
+            font-size: 24px;
+        }
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+        }
+        .search-section {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+        .search-section select, .search-section input, .search-section button {
+            padding: 10px;
+            margin-right: 5px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .card-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            padding: 20px;
+        }
+        .card {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            width: 250px;
+            text-align: center;
+        }
+        .card img {
+            width: 100%;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">🏡 <span>One-House</span></div>
+        <nav>
+            <ul>
+                <li><a href="#">지도 보기</a></li>
+                <li><a href="#">지하철노선도</a></li>
+                <li><a href="#">커뮤니티</a></li>
+                <li><a href="#">마이페이지</a></li>
+            </ul>
+        </nav>
+        <div class="login">🔑 로그인</div>
+    </header>
+    
+    <section class="search-section">
+        <select id="region-select">
+            <option value="">시도 선택</option>
+            <option value="서울">서울</option>
+            <option value="부산">부산</option>
+        </select>
+        <select id="district-select">
+            <option value="">시/군/구 선택</option>
+        </select>
+        <input type="text" id="search-box" placeholder="검색어 입력">
+        <button id="search-btn">🔍</button>
+    </section>
+    
+    <section class="card-container" id="card-container">
+        <!-- 카드 리스트가 여기에 동적으로 추가됨 -->
+    </section>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const cardContainer = document.getElementById("card-container");
+            const searchBox = document.getElementById("search-box");
+            const searchBtn = document.getElementById("search-btn");
+            
+            const data = [
+                { name: "A고시원", location: "서울", img: "image.png" },
+                { name: "B고시원", location: "부산", img: "image.png" },
+                { name: "C고시원", location: "서울", img: "image.png" }
+            ];
+            
+            function renderCards(filter = "") {
+                cardContainer.innerHTML = "";
+                data.forEach(item => {
+                    if (item.name.includes(filter) || item.location.includes(filter)) {
+                        const card = document.createElement("div");
+                        card.classList.add("card");
+                        card.innerHTML = `
+                            <img src="${item.img}" alt="${item.name}">
+                            <h3>${item.name}</h3>
+                            <p>${item.location}</p>
+                        `;
+                        cardContainer.appendChild(card);
+                    }
+                });
+            }
+            
+            searchBtn.addEventListener("click", () => {
+                renderCards(searchBox.value);
+            });
+            
+            renderCards();
+        });
+    </script>
+</body>
+</html>

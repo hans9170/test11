@@ -1,0 +1,911 @@
+고시원 이름: 
+	여의도 스테이
+고시원 위치: 
+	대방역 도보 1분 (신길동)
+	서울 영등포구 여의대방로62길 4 신한빌딩 3~4층
+고시원 보증금: 
+	보증금 20만원
+고시원 월세: 
+	월세 45-60만원
+고시원 이미지: 
+	https://image.neoflat.net/VG1fmSLPDlbVOAuYcn9HQal0hZE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/1cfc0902-0c71-4482-a5d8-2c5d87d764f9.jpg
+	https://image.neoflat.net/VG1fmSLPDlbVOAuYcn9HQal0hZE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/1cfc0902-0c71-4482-a5d8-2c5d87d764f9.jpg
+	https://image.neoflat.net/1up-97CeaG_Ou6uiK2DKCINR3C4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/0896a9f9-b34f-4aa5-9ef1-c9b90dcd3814.JPG
+	https://image.neoflat.net/uJtXpvgZmaQUf5KTl6bU6DQQXVQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/8a0af829-3a3e-44a5-b9c5-b04ac6b5223c.jpg
+	https://image.neoflat.net/6jfMZn4EVigM-kwSfO17_OT9IFg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/0ad9c8f6-9a99-4e2e-8166-f7edbfe1a00e.jpg
+	https://image.neoflat.net/m2cOea5JNzOzpLtYSgy_biqyQoQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/096dca4c-63c0-47df-91d9-205a85eab9cd.jpg
+	https://image.neoflat.net/lw1T37ayA2gYQrbEtDy-VwR-T20=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/f972e55d-4045-4d58-a741-d62f843940b1.jpg
+	https://image.neoflat.net/MtsgRvpWcwCxVr0yaZKv2B1aSK4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/fd88c616-abfc-4364-adf5-da8aff2c3199.jpg
+	https://image.neoflat.net/e8IaD9tsBSaMLh1NlIsoiQ9i6us=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/9a71d268-ccf3-4960-b056-34a8d9a9b9cd.jpg
+	https://image.neoflat.net/4_U-ozlf5UujLCdDDBEjczrVS0w=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/0f19de2f-76b4-4e06-880f-a362c57c538c.jpg
+	https://image.neoflat.net/9FYj6HNUKpALu7Q0SmuqoBgM8Ds=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/90e425f0-a7e0-4fc2-b847-479a4194df54.jpg
+	https://image.neoflat.net/lzE2-gsBHrhlbZvtt8u9NhMM3bE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/26707092-f6b5-41d4-8a18-a355fd0e902f.jpg
+	https://image.neoflat.net/oQ-54WyHs1Otco1hJAaUOGA05Cs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/69bf6cd7-16de-4913-afb8-27c85d29c0c0.jpg
+	https://image.neoflat.net/16A-bjjphrvXm2wvQYhuh-IesUo=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/f8519ebd-9018-4f25-86db-0d577d57fa36.jpg
+	https://image.neoflat.net/3vyokLrBVwg4TKoU4eaG9_iDMs0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/9950b73f-8944-40d9-ad38-3ed0492883ae.jpg
+	https://image.neoflat.net/g1KNVDGNmygyfMLfS78oBDnoE6s=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/5f27b3ee-a591-41ea-8bca-60b56e9a983a.jpg
+	https://image.neoflat.net/ZD4iidjfW2vCsJ4g5FNHzT6BZeU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/3fe1a25e-3485-4df9-8fd3-9901c9ee1ae7.jpg
+	https://image.neoflat.net/9qaSlOQk6LF6l2cutxau8ahsXcI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/d0bbcdf8-f95b-4c3d-be29-a9e219cbf455.jpg
+	https://image.neoflat.net/twvBRnCvN4llPOVla0BzhnqIC8w=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/ec5bdf58-8161-4cbc-8454-e70c30c1c328.jpg
+	https://image.neoflat.net/y2rwJj_YkSTkPonl1GdLidK4tlc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/4a6a3913-ae14-46b6-be55-ca4740316a96.jpg
+	https://image.neoflat.net/6aBkDPp7JMbsdChyNbWDHdeXn1A=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/1bfcd5cf-e80d-4bd7-96b8-12e32b2a4daa.jpg
+	https://image.neoflat.net/f02MqF1gBRzVMWvk8jdbNZt-tQg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/a8e5e461-855a-4051-bd0b-5107c885f910.jpg
+	https://image.neoflat.net/s3cT9nSzooo2V0PxQnvZAocixd8=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/0a1ef6d9-8857-4d43-b27b-f2947f92f45c.jpg
+	https://image.neoflat.net/QNcmOJVL_sSmlv1QCNmDZhs05gM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/204c44b7-af86-4b04-9492-488105a044e6.jpg
+	https://image.neoflat.net/C26ZWgdZay4oNYgyefBqFU_e_28=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/7ac70858-8aa2-455e-89eb-0721eceff466.jpg
+	https://image.neoflat.net/LxLbUB38lfa5FvuxMHDiUDL0PPo=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/fd9c02b0-c2ec-4386-892b-cd781c8dd151.jpg
+	https://image.neoflat.net/Y5nE3xS75J3zpA5QJQwwITpSW84=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/56ab41cd-5522-4dd9-9a8d-f56d5a4e92c2.jpg
+	https://image.neoflat.net/wNrf2XgUz25yxeSa5Ky6b4aGuh8=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/68a65391-e8f5-41bd-9149-7249473ded1e.jpg
+	https://image.neoflat.net/CKP8LoGtlTf_SI-v9TbEvOqD9V4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/d79915b9-7b2a-4f5a-a3ae-f02c07e2fb39.jpg
+	https://image.neoflat.net/gvmoreb7Q0Hj97-_SP4ClHGpA1I=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/e66f38e0-db33-456b-a59e-c51cad39584e.jpg
+	https://image.neoflat.net/MufZ5NMfdkPnwXzSJU3SLOTsYk4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/eb8ebc88-a009-4218-b524-ac3034cd2b8b.jpg
+	https://image.neoflat.net/VG1fmSLPDlbVOAuYcn9HQal0hZE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/1cfc0902-0c71-4482-a5d8-2c5d87d764f9.jpg
+	https://image.neoflat.net/1up-97CeaG_Ou6uiK2DKCINR3C4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2707/0896a9f9-b34f-4aa5-9ef1-c9b90dcd3814.JPG
+고시원 소개문: 
+	여의도스테이가 24년 9월 리뉴얼 오픈하였습니다
+대방역 7번출구 10초거리의 여의도 스테이는 모든방 개별화장실, 투도어냉장고를 갖춘 편리한 원룸텔입니다.
+또한 건물에 엘리베이터가 있어 언제나 편안한 이동이 가능합니다
+
+- 각방에 모두 화장실이 있는 올원룸입니다. 외창 36개 내창 4개로 거의 모든방이 외창입니다
+- 각층에 주방이 있고, 3층 세탁실에는 대용량 세탁, 건조기 2세트가 준비되어 있습니다 (세제무료) 야외발코니에서 빨래건조도 가능합니다
+- 각방 개별와이파이, 투도어냉장고, 개별에어컨이 준비되어있습니다
+- 대방역 10초거리, 건물 바로앞 버스정류장에서는 마을버스, 일반버스로 여의도 전역을 편하게 갈 수 있습니다
+- 건물관리인 24시간 상주하여 안전한 환경을 제공하고 있습니다
+- 엘리베이터가 지하주차장부터 있어서 이사할때도 편하게 이용가능합니다 (이사시에는 주차가능합니다)
+
+편하게 문의주세요. 감사합니다.
+
+** 환불정책 **
+퇴실 10일 전 알림 필수입니다.
+15일이상 거주시 입실료는 환불되지 않습니다 중도퇴실의 경우 하루 3만원으로 계산됩니다. 
+
+
+고시원 이름: 
+	스테이엔영등포점
+고시원 위치: 
+	대방역 도보 6분 (신길동)
+	서울 영등포구 영등포로84길 21
+고시원 보증금: 
+	보증금 20만원
+고시원 월세: 
+	월세 34-42만원
+고시원 이미지: 
+	https://image.neoflat.net/btzL5VI9EdHFp90MPjoEAEEflvU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/80b98949-683c-4e0b-88af-c65e71a1c944.jpg
+	https://image.neoflat.net/btzL5VI9EdHFp90MPjoEAEEflvU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/80b98949-683c-4e0b-88af-c65e71a1c944.jpg
+	https://image.neoflat.net/2GAL91OfuEgOQqwL8POeT7ejmoQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/282ed2ff-a30d-4d4a-8ca6-dea08f6a29fa.jpg
+	https://image.neoflat.net/hJhSLfI42bsMhqtOcwFPJAM378w=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/cc813116-304d-4b76-ab5b-bc226612c45c.jpg
+	https://image.neoflat.net/zSi2XNBidXQ1q3NFO2pC8Q7iL7I=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/076e9f86-2fe1-4861-88ff-e435c2d0126e.jpg
+	https://image.neoflat.net/6DX7_ErSCXHQ8ag2A1SRl3jg0IA=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/747330f7-cad8-49e2-b27d-5bd4a04d771a.jpg
+	https://image.neoflat.net/sSl4bAA17ckc7OoRmK1hyaW9NYw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/dff7c538-0add-4b2d-bd5c-a4d959d8e65b.jpg
+	https://image.neoflat.net/lj4XlDf7kQcZ80t9UCMuvvi4aaE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/76637f4c-dcfe-44bb-ade7-e2f8505e2eef.jpg
+	https://image.neoflat.net/gwAeWvwMFY9p57cmx_8D9dAwXHQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/70b192a8-1c8d-4069-9414-fa249b4c4f43.jpg
+	https://image.neoflat.net/FjkSIZD00AtclmK7meKnRX4yCGo=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/d16c7c6a-a855-4bd3-80e4-d3899a2de912.jpg
+	https://image.neoflat.net/PYFtcIo4Biy8wFJf1fAqoJ0CP3k=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/3832e445-fbbb-4cf4-b348-6af5ed436ac8.jpg
+	https://image.neoflat.net/e4wOAF2iOtCvz_P_l1nJL57ZIJ4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/da055a0b-12e5-470a-9baa-e736a5c691f3.jpg
+	https://image.neoflat.net/CPie5EwkTTvObW1sCATTFN-urSQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/37bac739-01e5-4abf-825e-cd9aa165b533.jpg
+	https://image.neoflat.net/RutyYTxOsMCtsw3kof341a7qujw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/154368c8-864e-46c9-a12f-215137cf14bc.jpg
+	https://image.neoflat.net/FzCcynNJnqRIIDpHdWtczw4YUwg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/410d5ca1-ce32-44c3-bd87-f502283b784f.jpg
+	https://image.neoflat.net/cH-npG7TN-qN_YMvNsQ4M0AZzLI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/a90465e5-3432-421d-8e00-31d2286bf14a.jpg
+	https://image.neoflat.net/MVBo-LNOdgLUiaOnCzHlJ0IysdY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/c20ed6fe-628e-4dda-b459-510508db79c2.jpg
+	https://image.neoflat.net/_IeQZYw2XFcYFkTmFDQm7gOVNKs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/9cc904e6-d99d-40a7-99e1-2e626f1e42cd.jpg
+	https://image.neoflat.net/X4HUu4HDFxn6i_sYGJ1zprdfa1s=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/b17f4c36-82cb-40e9-a328-d283a473f690
+	https://image.neoflat.net/QWBy8k6xMYNA-wCyD-bMTYlJRes=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/77c543a9-679e-4296-91b3-eacbe5f356a2.jpg
+	https://image.neoflat.net/r3PzBVNLsruiTjBpOnd9x7UGY4U=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/5738e7a0-b91c-4464-b288-2bbc0ef33467.jpg
+	https://image.neoflat.net/yS3snkD2nkBSnZ8LCnHpS5z3kX8=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/e0886fa0-1d08-4137-beaf-ba17b7d2ebbc.jpg
+	https://image.neoflat.net/onn9HL9YDPXmaRU6TZulwdXDl7U=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/a1c2c280-3982-482a-bb4d-6f67d59bb6cb.jpg
+	https://image.neoflat.net/btzL5VI9EdHFp90MPjoEAEEflvU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/80b98949-683c-4e0b-88af-c65e71a1c944.jpg
+	https://image.neoflat.net/2GAL91OfuEgOQqwL8POeT7ejmoQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/282ed2ff-a30d-4d4a-8ca6-dea08f6a29fa.jpg
+고시원 소개문: 
+	안녕하세요
+프리미엄 1인 주거공간 스테이엔입니다😊
+24년 1월부터 스테이엔은 프리미엄 여성 전용 공간으로 운영되고 있습니다
+스테이엔의 건물 전부가 여성전용입니다
+그리고 특히 스테이엔은 주 7일 매일매일 청소하고 있습니다. 주말, 공휴일 쉬지 않습니다
+생활 하는데 불편함이 없도록 완성도 높게 공간이 마련되었으니 입실 문의 주시기 바랍니다
+-  안전을 위한 캡스
+ - 청결을 위한 세스코
+ - 넓은 1층 공용공간
+ - 스타벅스원두커피
+ - 라면 5종이상 
+ - 러닝머신, 워킹머신, 로잉머신
+ - 프린터 (레이저, 잉크젯프린터 모두 있음)
+전부 무료입니다
+** 이코노미룸(B1) 학생 할인 이벤트 **
+이코노미룸(B1) 학생 특별 할인있습니다 (학생 인증 필수)
+
+** 현재 리뷰이벤트 진행중입니다 **
+2달이상 계약하시고 평점 만점 네이버리뷰 또는 고방리뷰 남겨주시면, 5만원 할인해 드립니다! 많이 연락주세요
+
+문의주실때 성별, 입주시기, 거주기간을 미리 남겨주시면 빠른 안내 가능합니다
+감사합니다. 😄
+
+
+고시원 이름: 
+	구디생활
+고시원 위치: 
+	구로디지털단지역 도보 7분 (대림동)
+	서울 영등포구 시흥대로 629 2층
+고시원 보증금: 
+	보증금 10만원
+고시원 월세: 
+	월세 36-45만원
+고시원 이미지: 
+	https://image.neoflat.net/TnnsYiu30Rk5z3_KphR-A872QGk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/409600b1-1323-4cff-8dc9-84096d5dbffc
+	https://image.neoflat.net/TnnsYiu30Rk5z3_KphR-A872QGk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/409600b1-1323-4cff-8dc9-84096d5dbffc
+	https://image.neoflat.net/CK0Uubm5nQkZqmBptUFpsIFHew4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/0189e9f9-30f2-4769-9888-8c78a5bf6156
+	https://image.neoflat.net/hZSccYGk4bmG__GXKCa2FJCZktc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/9cf2062c-26db-4494-8b9d-7a4d15bda02e
+	https://image.neoflat.net/WBh54OXG6W48n0Ge5rQ1AMXwqQc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/d8eabecb-d724-4589-a6fa-72a7c3b1e5ee
+	https://image.neoflat.net/CpewyseIQx05gkDIaOnKuhvIhKA=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/8e41039f-6d78-4d7f-934e-58f9845b0d27
+	https://image.neoflat.net/P_yVPMfWYh18BhSC9RnztjK1ENo=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/ff3189e3-5b34-41bf-b9cb-63c4588344e3
+	https://image.neoflat.net/Bi9CoqkiKls6LLJlbXJqTVF6NZU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/d7149ae4-e418-4889-a54c-c27135f04b19
+	https://image.neoflat.net/-3nth3jxvv041MKdXjcM_qkVrwA=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/aa2a7f55-c05e-4bff-be7f-472c966c7f31
+	https://image.neoflat.net/ChFlL9Y5T07bAYXNTNOha8kyi4Y=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/4225ed33-019d-4cfa-a1d0-f91983247e9e
+	https://image.neoflat.net/6EUzWo0UmezGk6zGOLxio-ckL0A=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/3f703055-6d51-425b-b847-2b456833925e
+	https://image.neoflat.net/HOGVjMsxu6B6Ns-db4IzfChvWcQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/a478686e-521c-45ac-ba73-e36fe9f0c360
+	https://image.neoflat.net/k5FFe_Vqa5fksa1X_oPw0kiEPb4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/35c8cfb5-b13f-48b1-a746-83a4b35b381d
+	https://image.neoflat.net/9TeYLlynd8S0k_0dY_97ZywF9y0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/52bab4b4-ca9a-4cf7-9f06-c0a854e4d836
+	https://image.neoflat.net/niEhOsZK8ouWBlPshiQAtwmszZk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/e88fb203-63c4-4c26-8229-3587745a28b3
+	https://image.neoflat.net/KNAc_nOXw86b5CizWbwF3aziKkQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/66152b6f-4261-4898-8895-313df1daff2b.jpeg
+	https://image.neoflat.net/X_8m2vkIFjaX-mfxbh5SR4owuJw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/d99a82ae-0919-4cb6-86d9-afb2f5d6b4bc
+	https://image.neoflat.net/OLo50dRyUYYG_F-qrl_OzGw3MkE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/29a99cb9-f8cf-4565-bfe8-bd297f64deb5
+	https://image.neoflat.net/EdNwPm9SJZ1Xf8TX2fvB3EGFnbI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/3f8dda8f-96dd-4e30-bb43-6fe6201fbd7e
+	https://image.neoflat.net/TnnsYiu30Rk5z3_KphR-A872QGk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/409600b1-1323-4cff-8dc9-84096d5dbffc
+	https://image.neoflat.net/CK0Uubm5nQkZqmBptUFpsIFHew4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/0189e9f9-30f2-4769-9888-8c78a5bf6156
+고시원 소개문: 
+	안녕하세요. 편안한 1인 주거공간 구디생활입니다.
+
+1. 대로변 편리한 접근성
+- 구로디지털단지역 5분
+- 대림성모병원 3분
+- 한림대학교강남성심병원 5분
+- 현대건설기술교육원 10분
+
+2. 깨끗하고 예쁜 인테리어
+- 2023년 4월 전체 리모델링 완료
+- 공용공간 및 개별공간 전체 인테리어 완료
+- 이케아 등 감성가구 세팅
+- 감성 조명 무료대여
+- 침대, 침구류 등 교체완료
+
+3. 다양한 무료 제공 서비스
+- 관리비, 공과금X
+- 라면/쌀/커피 무료
+- 세탁기/건조기 무료(세제, 및 섬유유연제 제공)
+- 고오급 안마의자 무료
+- 넷플릭스 무료(2개월 이상 거주자)
+- 캐리어 보관서비스
+
+4. 안심할 수 있는 서비스
+- 대로변 입지로 늦은 귀가에도 안심
+- 전객실 ALC 벽돌 시공
+- 공용현관 및 전 객실 도어락 설치
+- 사각지대 없는 24시간 CCTV
+- 공기청정기 상시가동
+- 해충 방역 완료
+- 옥상 이용 가능
+
+
+고시원 이름: 
+	아지레지던스 원룸텔 영등포점
+고시원 위치: 
+	영등포역 도보 3분 (영등포동3가)
+	서울 영등포구 영중로4길 8 3~4층
+고시원 보증금: 
+	보증금 5만원
+고시원 월세: 
+	월세 55-70만원
+고시원 이미지: 
+	https://image.neoflat.net/mlvZXetk3PLAsKDJ9sjQQ7pV0cI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/df2d2656-7d48-4e6e-ba17-c3bdc85301f1.png
+	https://image.neoflat.net/mlvZXetk3PLAsKDJ9sjQQ7pV0cI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/df2d2656-7d48-4e6e-ba17-c3bdc85301f1.png
+	https://image.neoflat.net/CkHm9YpUeDg2ELxldHEarXwKv1E=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/35f708de-223f-4183-8da0-42d7da55cc32.png
+	https://image.neoflat.net/lzVnMa7y_FT4ab2is2GlFxHacuY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/02913019-8610-4681-8679-e34933137565.png
+	https://image.neoflat.net/67IcABM6B7PaVCKXbFsZVALxrHs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/e048cced-d919-4a46-8dc7-cd03e51f1fc4.png
+	https://image.neoflat.net/4oe-nB8lcmX74hMldnQS__wwE2Y=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/89672257-6c0c-40f7-8dca-caa6dab4c75b.png
+	https://image.neoflat.net/ddplcA7QxvNrghMTjGAjhkGlgss=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/5ece1ff9-6bfc-4364-b3c0-254ab1e4c260.png
+	https://image.neoflat.net/3lj-KZE10EUI3moB17M0D9lS8w0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/2a645e0e-c3bd-4fd2-82f2-bd0a907f46fd.png
+	https://image.neoflat.net/201MSwgfgtnMPUBEDFEuASWfyYs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/594f2405-6cd6-4657-9bdf-c8d6c62b6760.png
+	https://image.neoflat.net/6wCkdOUlJEunuDeebKCoW7JnVjM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/d6db830d-a556-4e99-9e61-0aed478a57c9.png
+	https://image.neoflat.net/Fq8kAL4ISluouPo7nk31vx5l0YY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/3c70a2a3-eeaf-4384-8a37-36d2226f62cf.png
+	https://image.neoflat.net/w5fYjHJFnRUDP3iyEe8rJqnsjXY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/3f1ca03e-6cdf-4734-8fe1-0eac2e885311.png
+	https://image.neoflat.net/Jju3g-ACTzYMyJZ_oFYjV8mLDqs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/c88e6644-bb4c-46ea-bb76-9cb6ad270a97.png
+	https://image.neoflat.net/hicsB2ISjkAHyKHD5ZDEIPHq1I8=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/a68f866c-4bf5-4e37-b858-2fbc8542a4b4.png
+	https://image.neoflat.net/HX0xtiXkUF8KXLcfKKAt5HdmTN0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/1b78a0b7-2898-486a-8216-f3e96c8fd38f.png
+	https://image.neoflat.net/exrmHLwt8U0yoAaWPFmKWBoOt1U=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/e3bb3ac6-5445-43a6-ba13-90d091cece46.png
+	https://image.neoflat.net/kCjp0WXTnDa6VbXo8M6fsUjha5s=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/33d43d20-45f2-4d49-aeb7-86e60339297f.png
+	https://image.neoflat.net/x--aaeLQ1nsbW8S1PAcRP45P5XM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/0f11a50e-6548-45b3-bf2e-84a32ba91b0c.png
+	https://image.neoflat.net/dW3cFpKLpRUTPDe1Jy2EAEUvEA0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/cec010ae-b688-4abf-ba09-d5864e73a841.png
+	https://image.neoflat.net/iWQPuIxT9w7fVaRPfufhuHnnSyo=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/92f8649f-2bd1-4f31-8a4a-ad48d3aca4b8.png
+	https://image.neoflat.net/u9zILXm9HYNDP3XjgVn0HgQhG_Q=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/ecf77524-acaf-4322-9a7c-004df86e8bcb.png
+	https://image.neoflat.net/JpwE0b6cuUZ77CL5SuSSFfj58Ec=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/ef0bbe7d-4cf6-4bc8-aafd-ad79391fc40e.png
+	https://image.neoflat.net/Dd1aONbyraL0VCCvxx3hb5okfTU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/2aebc75e-48cc-4a07-9305-3865430e5f93.png
+	https://image.neoflat.net/j_nGgAbvRVsVZP_nWocxeBsIp7c=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/fa1ca58d-8a8b-4e47-8616-6ceb41de60f7.png
+	https://image.neoflat.net/ySEJYzqAyX7Vp5DX4DCV4_KmzvU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/52b5ecad-aa5c-491b-852d-1386a2ca93f6.png
+	https://image.neoflat.net/2TsMjv9lA3AQg_XdH9RXN0AVovw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/46939c53-d2e4-4f81-a1f2-2b9a8722d471.png
+	https://image.neoflat.net/bGrKN3ZCkJF6S5Oruqy9S1t8a6c=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/541b2b59-5053-4c53-8ff2-e7407a3213d0.png
+	https://image.neoflat.net/mlvZXetk3PLAsKDJ9sjQQ7pV0cI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/df2d2656-7d48-4e6e-ba17-c3bdc85301f1.png
+	https://image.neoflat.net/CkHm9YpUeDg2ELxldHEarXwKv1E=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6719/35f708de-223f-4183-8da0-42d7da55cc32.png
+고시원 소개문: 
+	Full Furnished system "아지레지던스 영등포점"
+
+아지레지던스의 품격있는 주거시설로 고객여러분을 초대합니다.
+
+영등포 상권 중심지에 위치하여 생활이 풍요롭고, 지하철 및 다양한 버노선으로 교통이 매우 편리합니다.
+
+인근 여의도, 노량진 방면 출퇴근 직장인, 학생, 소호싱글족께 최적의 조건임을 자부합니다.
+
+최신 소방법을 준수한 설비로 스프링클러, 소화기, 화재감지기 등을 갖추었고, CCTV설치 등으로 보안에도 최선을 다하였습니다.
+
+제대로 된 휴식이 삶의 질을 결정합니다. 직접 방문하시어 살펴보시고 결정하세요
+
+( 개인 시설 ) 
+
+•풀옵션 원룸텔, 모든방 외창
+•편안한 침대, 책상, 의자, 옷장, 냉장고
+•대형 LED TV 모니터, 각방 초고속 인터넷, 개별WI-FI
+•개별 화장실/샤워실, 개별 에어컨
+•개별 드럼세탁기(룸에 따라)
+•개별 전자렌지(룸에 따라)
+•스프링클러, 화재감지기, 휴대용조명등, 소화기
+
+( 공동시설) 
+
+•주방 - 냉장고, 전기압력밥솥, 냉.온정수기, 전자렌지, 인덕션 등 주방비품
+•드럼세탁기(룸에 따라 방내 구비)
+•전자렌지(룸에 따라 방내 구비)
+•신세계, 타임스퀘어, 롯데백화점이 보이는 탁트인 공간 - 옥상 휴게시설
+
+( 오시는 길)
+
+•1호선 영등포역 3번출구
+•버스노선 : 경방타임스퀘어.신세계백화점 정류장
+• 간선 605, 661, 670, 761,N65 
+지선 5625, 5714, 6628, 6630, 6631, 6637, 6640B 
+광역 9408 
+
+•서울시 영등포구 영중로4길 8(구.영등포동3가 10-28) 3, 4층
+
+
+고시원 이름: 
+	새롬하우스
+고시원 위치: 
+	신길역 도보 5분 (신길동)
+	서울 영등포구 영등포로72길 3 2층
+고시원 보증금: 
+	보증금 10-15만원
+고시원 월세: 
+	월세 40-48만원
+고시원 이미지: 
+	https://image.neoflat.net/BVbC6xBMgKRmKq48Y_-35kKyPPY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/62326dd0-f8f1-41be-bcf8-2aa8de40c615.jpg
+	https://image.neoflat.net/BVbC6xBMgKRmKq48Y_-35kKyPPY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/62326dd0-f8f1-41be-bcf8-2aa8de40c615.jpg
+	https://image.neoflat.net/HKMEhpW8xLKvyRN6uTgIXiNFHWM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/a6b6dd84-7e2b-4923-aadc-b751419c2924.jpg
+	https://image.neoflat.net/LXn4LE-D8E2prWybvaLaJplJun8=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/91c5614f-044b-4e60-81bc-87fff593cddb.jpg
+	https://image.neoflat.net/9BACPcp5PlOYs5PaA8I2dyMBj3s=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/8beb7e0c-d760-4855-bffd-7bdc503057b1.jpg
+	https://image.neoflat.net/lPgAyXhWzrV7r3Dz2AGvwAb-2lg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/71f0f481-3a0e-4b2e-a4ca-ccb9ef5c76af.jpg
+	https://image.neoflat.net/vqohWsYYvphsa28Cswv22fsdw5E=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/88b1baed-975e-4b32-9b2f-e318f1a14c0a.jpg
+	https://image.neoflat.net/ifT7nL50qpJc55LFagD_QDVagxA=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/33eccdbc-33c8-4ad2-8003-ca3fef6f484a.jpg
+	https://image.neoflat.net/x-Vx5n4xahEQ5XE3ZU_iUPGIGcU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/3a7ee40d-93fd-4922-87fb-416413996515.jpg
+	https://image.neoflat.net/PaYnCrmBrRZex1dwPpi5tS51DLg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/28126a54-74c2-4752-bd1b-714e47f54583.jpg
+	https://image.neoflat.net/9wu4E4hKQG4tkucWlemxJiVpheQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/329c79ca-0c0e-4f83-bd19-10327d1c5517.jpg
+	https://image.neoflat.net/Su7b7vD3vJHYSc-gAiannnU-klA=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/735c5e85-006d-4d22-9411-34958d271efa.jpg
+	https://image.neoflat.net/vdsujXbKEuzmYVxV99Y7ZZxC3Qo=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/39e944ef-4202-4fca-b83b-03812c161df6.jpg
+	https://image.neoflat.net/uLU_YxzqVhC2GXx6MpfoaaJoWVQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/c063c233-6510-4b71-966f-0b57bbb3b514.jpg
+	https://image.neoflat.net/BVbC6xBMgKRmKq48Y_-35kKyPPY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/62326dd0-f8f1-41be-bcf8-2aa8de40c615.jpg
+	https://image.neoflat.net/HKMEhpW8xLKvyRN6uTgIXiNFHWM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/a6b6dd84-7e2b-4923-aadc-b751419c2924.jpg
+고시원 소개문: 
+	안녕하세요, 저희 새롬하우스를 찾아주셔서 감사합니다.
+
+-방 안에 화장실과 샤워실, 그리고 개별 에어컨까지 모두 갖춰진 원룸형 풀옵션 고시원입니다 ( 침대, 책상, 의자, 책꽃이, 수납장, 옷장, 냉장고, IPTV, 각방 개별wifi,인터넷 )
+
+- 전문업체가 시공한 지 5년 남짓된 깔끔하고 쾌적한 시설, 넓은 복도와 환한 실내 인테리어를 자랑합니다
+
+- 건물 바로 앞 편의점, 식당, 카페, 빨래방, 홈플러스 등이 위치해 있고, 성애병원, 주민센터, 은행, 약국,재래(대신)시장, 다이소 등이 도보 3분 거리 이내에 다양한 생활 편의시설이 갖춰져 있어, 장기거주에도 불편함이 없습니다.
+
+- 대방역, 노량진 학원가에 근접하여 면학 분위기가 갖춰진 입지에 위치하고 있습니다
+
+- 입실자 대부분이 공무원 준비하는 또래 친구들로서, 외롭지 않게 친구들을 사귀면서 학업에 집중할 수 있는 생활여건이 갖춰져 있습니다
+
+- 체력학원 옆 건물에 있어 체력 시험이 중요한 체육임용, 경찰공무원, 소방공무원, 군무원 준비생들의 많은 사랑을 받고있습니다
+
+- 신 소방법을 준수하는 자동 화재감지 시스템, 스프링클러, 화재시 피난 안내 등, 휴대용 조명등, 소화기 등 소방시설이 완비되어 있습니다
+
+- 바로 앞 따릉이 보관소가 있어 노량진, 여의도, 영등포 등 중심가 접근이 매우 뛰어납니다
+
+- 대로변에 가까워 늦은 귀가에도 안심할 수 있는 위치임에도, 이면 도로에 위치해 취침 시간 아주 조용한 가운데 편안한 휴식을 취할 수 있습니다.
+
+- 출입구 도어락과 CCTV 녹화, 상주 관리자를 통한 밀착 주거지원이 가능합니다
+
+- 인덕션, 전자레인지, 냉장고, 전기압력밥솥, 정수기 등 주방기기가 구비되어 있어서 취사와 조리가 가능합니다
+
+
+
+
+
+** 환불정책 **
+학원환불 규정에 따라 환불
+
+
+고시원 이름: 
+	해피하우스 대방점
+고시원 위치: 
+	신길역 도보 7분 (신길동)
+	서울 영등포구 도신로64길 16
+고시원 보증금: 
+	보증금 5만원
+고시원 월세: 
+	월세 28-60만원
+고시원 이미지: 
+	https://image.neoflat.net/AG3sLmmVy6wkRcpiwpcZdjC4iCY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/d4522dd7-cd7e-41bd-8d61-cb15944a43b9.jpg
+	https://image.neoflat.net/AG3sLmmVy6wkRcpiwpcZdjC4iCY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/d4522dd7-cd7e-41bd-8d61-cb15944a43b9.jpg
+	https://image.neoflat.net/b3hLJ0sjlZ7fFu4jpWQWQIUoiNM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/0b2e43f7-df70-4016-9e95-bd6f43811a1b.jpg
+	https://image.neoflat.net/FE-SjkSBlwqSRcrDPhZGZRU9_3s=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/303ec325-3266-448b-8d60-9c5dd8847dce.jpg
+	https://image.neoflat.net/CbprmsX4OqvrpWZuuaCADU7iS0A=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/941dd62e-01ad-48bc-a1b3-7097ee7e6914.jpg
+	https://image.neoflat.net/DKBQidbf08IpVFaDVmTJagFDJqU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/0c9b80fd-d34c-443e-b114-0806b3f99402.jpg
+	https://image.neoflat.net/vWp38XjjMMz9SXtvDk0d-fjrwts=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/a3b773b4-033a-453f-8159-193feaeed22f.jpg
+	https://image.neoflat.net/aTT-QqN6rTu8geSq78E07A2gTJk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/77987356-edc9-4792-9ef6-4df86936e754.jpg
+	https://image.neoflat.net/AG3sLmmVy6wkRcpiwpcZdjC4iCY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/d4522dd7-cd7e-41bd-8d61-cb15944a43b9.jpg
+	https://image.neoflat.net/b3hLJ0sjlZ7fFu4jpWQWQIUoiNM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/0b2e43f7-df70-4016-9e95-bd6f43811a1b.jpg
+고시원 소개문: 
+	안녕하세요. 
+깔끔하고 조용하여 살기 편안한 고시원을 추구하는 해피하우스 대방점 입니다.
+원룸, 샤워룸, 미니룸 등 다양한 방이 있어 상황에 맞는 방을 선택하실 수 있으며,
+가성비 좋은 가격으로 부담없이 머무실 수 있습니다.
+
+신길역, 대방역 각 10분 거리에 위치하고 있으며, 인근 성애병원에서 도보로 3~4분 거리에 위치하고 있습니다. 여의도에서 한 정거장으로 가까워 직장인들도 머물기 편리합니다.
+인근에 홈플러스, 편의점, 카페, 맛집, 병원, 약국 등 편의시설이 있어 거주하시기 편리합니다.
+
+해피하우스 대방점이 궁금하신 분들은 언제든 편안하게 연락 주세요! ^^
+
+** 환불정책 **
+입실 후 입실료 환불 불가합니다.
+
+
+고시원 이름: 
+	메가스테이 영등포점
+고시원 위치: 
+	영등포시장역 도보 3분 (영등포동6가)
+	서울 영등포구 영신로40길 15 2,3층
+고시원 보증금: 
+	보증금 20만원
+고시원 월세: 
+	월세 59-69만원
+고시원 이미지: 
+	https://image.neoflat.net/PEv078xiDNBzUS3LiIZyGB67JCw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/1fa54c88-0291-4ed6-bf36-ee7293992e27.jpg
+	https://image.neoflat.net/PEv078xiDNBzUS3LiIZyGB67JCw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/1fa54c88-0291-4ed6-bf36-ee7293992e27.jpg
+	https://image.neoflat.net/lOhKeCXO059hZas9CWMPRND30v4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/1f860c65-6f3b-4927-a491-79a08029e5e0.jpg
+	https://image.neoflat.net/vypyjfLQRQUd6eZrUEfgc2dJDT4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/4b4285d8-d9c3-43c4-b8e8-ece54c2d538e.jpg
+	https://image.neoflat.net/2eSdumsgpPjKYJq_-SfamV03VAc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/66e89d32-00e1-4c17-8d02-577484ff3a38.jpg
+	https://image.neoflat.net/gOxa37ua0x4yBTgPKcl7xoOccQY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/2fa52d11-a9b1-4a01-afc2-06428681e81a.jpg
+	https://image.neoflat.net/qPMEaOM1SBo48MCCJNRWlDFgeeI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/45ef32db-dc55-4592-8bbe-9896b77959cd.jpg
+	https://image.neoflat.net/gIX1GBTDRKpGdNad5D-rXQx_Hlo=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/4beb2569-8f4b-432e-89f8-02345194808e.jpg
+	https://image.neoflat.net/YU08NT3SPu2pkgFvEq15ooyN5yk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/5225103f-b815-41e2-acf8-7f4da2f7facb.jpg
+	https://image.neoflat.net/ztoAP3j0shps5fRv6EGiu8uiGX0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/74c0e425-f2ab-46c2-9c09-75eab5b815a2.jpg
+	https://image.neoflat.net/vtaek7iOpF5T_qnbcrlkyeL14Go=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/22cb1a81-1a92-4131-b83b-85234a009c51.jpg
+	https://image.neoflat.net/3HPsDi_MQY88uhv_WeuzYT2ghq0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/2e2c559a-1115-4b47-95e6-a817a3cc0d29.jpg
+	https://image.neoflat.net/x7j-2aXTVMFGG-ReoE72h-rnlRg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/fd92b9a3-7bde-4fb7-b1bd-d3e2c3fd3103.jpg
+	https://image.neoflat.net/lfhd28jH-SdV8Oidtny7LbMtebA=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/431643e8-0604-4a0a-9c37-e8b9ad41aa34.jpg
+	https://image.neoflat.net/IbE9OQTgFKgBRsNb27RwfjL1H0o=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/be4b40dd-7c42-40dc-adae-1ba6ca187480.jpg
+	https://image.neoflat.net/wsG0xpAv4LNugQcU0pwKgQGp73A=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/3dd5534a-ee94-4f78-8368-6da207d0f4c8.jpg
+	https://image.neoflat.net/2boFZsc5dkLJElOZUIwp5SGW0GA=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/294e6c17-e20c-42e2-b3ae-d1823f3ad75a.jpg
+	https://image.neoflat.net/iIjZ_Ds9z2fHFb5UAFGkrsp7njA=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/7e648324-2901-4324-8cdb-15dc583dccea.jpg
+	https://image.neoflat.net/PEv078xiDNBzUS3LiIZyGB67JCw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/1fa54c88-0291-4ed6-bf36-ee7293992e27.jpg
+	https://image.neoflat.net/lOhKeCXO059hZas9CWMPRND30v4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8285/1f860c65-6f3b-4927-a491-79a08029e5e0.jpg
+고시원 소개문: 
+	안녕하세요 :)
+2022.09 신설 오픈한 
+프리미엄 럭셔리 풀옵션 원룸텔
+'메가스테이 영등포점'입니다
+
+모든 룸에는
+*개별에어컨
+*드럼세탁기
+*전자레인지
+*투도어냉장고 (냉동고 포함)
+*디지털도어락 (3중 보안)
+*LG하우시스 붙박이장
+풀옵션으로 설치되어 있어요
+
+사각지대 없는 CCTV 10대가 24시간 녹화중이며,
+입실자 분들께서 편하고 안전하게 지낼 수 있는 
+최고의 환경을 제공할 것을 약속합니다^^
+
+감사합니다
+
+
+고시원 이름: 
+	비더스테이 당산역점
+고시원 위치: 
+	영등포시장역 도보 9분 (당산동)
+	서울 영등포구 버드나루로 119 영등빌딩 별관 3,4층
+고시원 보증금: 
+	보증금 10만원
+고시원 월세: 
+	월세 42-80만원
+고시원 이미지: 
+	https://image.neoflat.net/g6hEBrDZz3qTU37PZYFqxbkhSW4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/d6dc1490-4251-4a03-bc79-440e4e055a2e.jpg
+	https://image.neoflat.net/g6hEBrDZz3qTU37PZYFqxbkhSW4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/d6dc1490-4251-4a03-bc79-440e4e055a2e.jpg
+	https://image.neoflat.net/yDVY6wmbmVscop_DD8qNvExPkNo=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/cf886a45-2244-4bb7-b3a3-38f59c813cc2
+	https://image.neoflat.net/65Nhv8C738T0SKFOT6qe2kysz8k=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/a186d3b0-0d39-4324-a79f-f06f54f34939.jpg
+	https://image.neoflat.net/zfKiw8KbH_nU8NxjbXQXv06Y5Lg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/3b9c2f5f-cdb4-4eba-bac0-a7f34c7398da.jpg
+	https://image.neoflat.net/XaXYYK2IfEa4rctNqgoO_YtTYzQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/533acc37-d762-40a5-8344-38a2be9ee9f7.jpg
+	https://image.neoflat.net/10NMm5x7oiE911F0YGzilJ6C1EY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/c19e6b93-92f6-492f-a6bb-924d2b5e52ff.jpg
+	https://image.neoflat.net/SbAZ-IsXTx2PV4Apbxt6RcLXvCE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/484c27c5-6a7f-4fd4-a543-8cdc85fde56d.jpg
+	https://image.neoflat.net/uuYFYx4qzK_NMZ52BipzPuaQ_5o=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/ff49f7c2-bbca-4f9e-944b-a31b26ad9b0c.jpg
+	https://image.neoflat.net/O_bmAiHTVSBvoksSz12aeV4PV4w=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/b421e38e-e35f-4e10-9d4b-154bdf5cc246.jpg
+	https://image.neoflat.net/nu21xOSoNl4FQPHWsPtNkWxN5pk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/7a4a4082-8f16-48e1-88fe-68ce7c617379.jpg
+	https://image.neoflat.net/g6hEBrDZz3qTU37PZYFqxbkhSW4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/d6dc1490-4251-4a03-bc79-440e4e055a2e.jpg
+	https://image.neoflat.net/yDVY6wmbmVscop_DD8qNvExPkNo=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8244/cf886a45-2244-4bb7-b3a3-38f59c813cc2
+고시원 소개문: 
+	* 여의도에서 제일 가까운 고시원*
+
+여의도, 당산역, 영등포시장역 근처에 위치한 풀옵션 당산역고시텔, 당산역원룸텔입니다.
+2호선/9호선 당산역 도보 8분, 여의도 국회까지 도보8분 거리에 있습니다.
+5호선 영등포시장역까지 도보 10분 거리에 있습니다.
+3개의 지하철 노선과 버스정류장 또한 도보1분 거리에 있어 교통이 편리한 환경입니다.
+각종 식당, 까페, 코인세탁소가 밀집한 오피스 타운 거리에 위치해 있고 빅마켓, 다이소가 5분 거리에 있어 원룸텔 생활환경에 최적인 조건을 가지고 있습니다.
+
+영등포, 여의도, 합정, 마포로 이동이 편하고 대학교,병원,편입학원이 도보 5분 거리에 있어 직장인, 학생, 학원생들에게 최적의 위치입니다.
+
+유흥시설이 없고, CCTV, 디지털 도어락으로 안전하고 쾌적한 당산역고시텔입니다.
+
+
+고시원 이름: 
+	연자리하우스 영등포점
+고시원 위치: 
+	영등포시장역 도보 5분 (영등포동3가)
+	서울 영등포구 영등포로 218-1 4,5층
+고시원 보증금: 
+	보증금 5만원
+고시원 월세: 
+	월세 31-43만원
+고시원 이미지: 
+	https://image.neoflat.net/L5zPe8mpZtQcoVATZtqrSdXCQ4w=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7108/59e8aff9-6e69-4456-838c-2e3734e1ba80.jpg
+	https://image.neoflat.net/L5zPe8mpZtQcoVATZtqrSdXCQ4w=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7108/59e8aff9-6e69-4456-838c-2e3734e1ba80.jpg
+	https://image.neoflat.net/47J7FGlUDSF9OWUOOTOK-f5qEGs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7108/9f323c3e-cd1e-490f-8d33-951bb342d854.jpg
+	https://image.neoflat.net/oUQmDJasl1hrVb9iHDC4yDf1gMM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7108/e1185652-4fc5-4e84-a08e-f6656f0f8992.jpg
+	https://image.neoflat.net/77tn_Z1HQStaSO-CjK9h3FH5pzk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7108/3ead6f2d-a138-43ba-81fa-9ac9df69d200.jpg
+	https://image.neoflat.net/RKiqyPH35_D8k8ZWPa-RcdJl0VE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7108/81c8366e-3c64-4351-a4ca-e7013f94b28f.jpg
+	https://image.neoflat.net/4-DUdcgFhCJTExsaxby_zanBY4M=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7108/5e671939-d337-47ee-8aa0-9926b9eb913d.jpg
+	https://image.neoflat.net/bte4WTTQGhRPYkHn6byH_M4jA-Y=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7108/533ced74-b718-4480-9484-7a72bbbca65b.jpg
+	https://image.neoflat.net/L5zPe8mpZtQcoVATZtqrSdXCQ4w=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7108/59e8aff9-6e69-4456-838c-2e3734e1ba80.jpg
+	https://image.neoflat.net/47J7FGlUDSF9OWUOOTOK-f5qEGs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7108/9f323c3e-cd1e-490f-8d33-951bb342d854.jpg
+고시원 소개문: 
+	영등포역과 영등포시장역 사이에 있는 연자리하우스 입니다.
+편리한 교통시설과 생활편의 시설로 최적의 입지입니다.
+최근에 리모델링을 완료하여 쾌적한 시설로 지내시는데 불편함이 없도록 하겠습니다. 
+
+** 환불정책 **
+1주(입실일~7일) 퇴실 시(청소비(3만원),  1박 * 2만원)
+2주(8일~14일) 퇴실 시(보증금x, 1박 * 2만원)
+2주 이후 퇴실 시(환불금액 x, 보증금 환불)
+
+
+고시원 이름: 
+	픽셀하우스 대방점
+고시원 위치: 
+	대방역 도보 6분 (신길동)
+	서울 영등포구 여의대방로53가길 12 2,3층
+고시원 보증금: 
+	보증금 20만원
+고시원 월세: 
+	월세 68-70만원
+고시원 이미지: 
+	https://image.neoflat.net/vHR4b2kj0BWmn3-_GUGdaxD7kpc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7844/f45f096a-cbe0-49ed-800b-102574d1b802.jpg
+	https://image.neoflat.net/vHR4b2kj0BWmn3-_GUGdaxD7kpc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7844/f45f096a-cbe0-49ed-800b-102574d1b802.jpg
+	https://image.neoflat.net/hKxV0iIpPFWedy0xjQFc_aW1G70=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7844/ad19c70c-6efe-493a-8a02-66c3fb1f900a.jpg
+	https://image.neoflat.net/8QRI1k-Z-4cDS65_bnUkCHLgj7s=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7844/24a532bb-87b5-4b85-a772-cb1b424ff9c0.jpg
+	https://image.neoflat.net/l8nJfccUzFdcOqui4-eQG7rXS9o=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7844/467cf05c-468b-4713-aa92-ef677174e96f.jpg
+	https://image.neoflat.net/9oiVJLylPCSWPdV5t45pSQnyxyU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7844/080f9b4e-ab47-4632-898b-8f68b698d89d.jpg
+	https://image.neoflat.net/cPUX8YoBfhEBmRsdTXiN7rMTv7I=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7844/7f916b87-9098-4fc1-b37f-374d3d24d0d3.jpg
+	https://image.neoflat.net/vHR4b2kj0BWmn3-_GUGdaxD7kpc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7844/f45f096a-cbe0-49ed-800b-102574d1b802.jpg
+	https://image.neoflat.net/hKxV0iIpPFWedy0xjQFc_aW1G70=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/7844/ad19c70c-6efe-493a-8a02-66c3fb1f900a.jpg
+고시원 소개문: 
+	안녕하세요,
+호텔형 프리미엄 원룸텔 픽셀하우스 대방점입니다.
+
+- 월세 60만원~ (방타입별 상이함)
+- 보증금 20 만원 (신뢰비)
+- 관리비, 공과금 등 추가금 없음
+- 단기 입주 가능
+- 안전한 주거공간, 불편사항에 대한 빠른 처리 (원장 직영점)
+-웰컴 키트 제공 (발매트, 의자 방석, 휴지통, 화장실 청소솔, 갑티슈 등.)
+
+[위치]
+- 1호선 신길역, 대방역 도보 5분 / 7호선 보라매역 도보 10분
+-신도림, 영등포, 여의도까지 30~40분 소요
+-직장인들에게 최고의 위치
+-역세권, 주변 편의시설 다수
+
+< 개인시설 >
+- 와이파이
+- 넓은 개인 화장실
+- 냉장고
+- 에어컨
+- 전자레인지
+- 세탁기
+
+< 공용시설 >
+- 다양한 종류의 라면, 쌀 상시 제공
+- 주방 (식기, 조미료 등)
+- 건조기
+- 공용냉장고
+- 이불빨래가 가능한 대형세탁기 
+
+생활에 필수적인 것들은 픽셀하우스 대방점이 제공해드립니다.
+개인적으로 필요한 물품만 가져오시면 됩니다. :)
+장기 계약시에는 할인 혜택도 있으니 전화나 카톡 오픈채팅 문의 바랍니다.^^
+항상 아름다운 휴식 공간을 제공해드리겠습니다.
+
+
+고시원 이름: 
+	라온스테이 대방점
+고시원 위치: 
+	신길역 도보 6분 (신길동)
+	서울 영등포구 영등포로 382-1
+고시원 보증금: 
+	보증금 5만원
+고시원 월세: 
+	월세 28-45만원
+고시원 이미지: 
+	https://image.neoflat.net/9vksIMuA0N0n1U_u1NTLicC-O48=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/33f191c3-33ea-4141-8e05-0962c171b8bc.jpeg
+	https://image.neoflat.net/9vksIMuA0N0n1U_u1NTLicC-O48=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/33f191c3-33ea-4141-8e05-0962c171b8bc.jpeg
+	https://image.neoflat.net/a9ZlCMSa5tBQJNK-ybbMRZ1RxTM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/dc445d7e-d933-4227-89c6-e55a68f44288.jpeg
+	https://image.neoflat.net/PeGqVEPnRjdWYhcKWBpazP7bP9A=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/c87c2957-520a-4760-84e6-c7ecb2ee9361.jpg
+	https://image.neoflat.net/FxDi0duliPVA5kPorXH1FpK-I-Q=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/7821816f-2b2a-4857-8d4a-eaaa9c90f980.jpg
+	https://image.neoflat.net/7jyBQ6PLXncKramdheBFLmT4Iw4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/716b9903-18f5-48e0-933c-2a9d5bdb0173.jpg
+	https://image.neoflat.net/jr7oBbWYUmD0JSXE2MBOM98AfJg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/8809d555-27d2-4445-99be-0672bf72179b.jpg
+	https://image.neoflat.net/up2j24uIIPSRRC9wE-N-3Hw6UAw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/4d3713d6-d761-4a71-80b9-a19cc5ae04b8.jpg
+	https://image.neoflat.net/yjWfHHVq_6_FUA3NFfA_S9EEFMM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/58b09bee-2002-40e7-9aca-e1d60ff4a29e.jpg
+	https://image.neoflat.net/_j49PLTYxvq6YiG1Lt7wwK6x-1s=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/087060bc-60f5-4ee3-881f-650a91b50be3.jpg
+	https://image.neoflat.net/53l2baFhOsiDDx-RW4JfgFNqHxs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/5e8e8907-e15a-49da-b918-16c9e5eedec1.jpg
+	https://image.neoflat.net/sKo7AISjjtXSJkhErm2jPbsBbNk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/0b443204-22b6-4dfd-9f22-3b2092a69e35.jpg
+	https://image.neoflat.net/YzQWzwyDbkyn9rfHMShyWTrXTfM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/50b5c1fb-c67a-430f-b8a1-ecd55225883d.jpg
+	https://image.neoflat.net/C5apa1sNNRuGhNQUHryYlLjJnNc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/74dbb5d7-7ad6-4e2c-bac1-70f5ec3beaf8.jpg
+	https://image.neoflat.net/NiruoYpRY-yWz6-WDGOaD2OdjCk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/399f7d6c-0de0-4d82-bf11-513bff66b6df.jpg
+	https://image.neoflat.net/VVUX5N-m9GNvrDS1ZipVVbTZPCU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/bea98731-4e55-4d9d-85f7-c0a67a19be75.jpg
+	https://image.neoflat.net/nPRd6R39FOLJn_JJteRSHcUhIFU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/b519951a-abf1-4f5f-9e37-5ff7fa4e8698.jpeg
+	https://image.neoflat.net/2x9nhipB7Ij26pPK_DVKuA4zn3k=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/c9f34cdc-4ee5-4d7f-ab1c-8a69fc0a47dd.jpeg
+	https://image.neoflat.net/6BlVoHlFi0hP7c_CIsHFUYYMFuw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/8d19674f-9963-48eb-8564-362e208a78b0.jpeg
+	https://image.neoflat.net/mtuNLmMAZgp4UHiKs0AYeagt3Nc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/522c000f-373e-4f89-b485-2d0768dca58b.jpeg
+	https://image.neoflat.net/9vksIMuA0N0n1U_u1NTLicC-O48=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/33f191c3-33ea-4141-8e05-0962c171b8bc.jpeg
+	https://image.neoflat.net/a9ZlCMSa5tBQJNK-ybbMRZ1RxTM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8233/dc445d7e-d933-4227-89c6-e55a68f44288.jpeg
+고시원 소개문: 
+	라온스테이대방점입니다.
+22년7월 올리모델링 완료되었습니다.
+24년 4월 공용공간 리모델링을 실시하였습니다.
+쾌적한 환경을 위하여 노력하고 있습니다
+
+
+고시원 이름: 
+	하이리빙텔
+고시원 위치: 
+	영등포역 도보 4분 (영등포동3가)
+	서울 영등포구 영중로6길 27-1 4,5층
+고시원 보증금: 
+	보증금 10만원
+고시원 월세: 
+	월세 35-40만원
+고시원 이미지: 
+	https://image.neoflat.net/0MjMqBAryT4n-TwXgHmaPq4eaI8=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/f5340b3a-4e62-4164-ab55-af7290228597.jpg
+	https://image.neoflat.net/0MjMqBAryT4n-TwXgHmaPq4eaI8=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/f5340b3a-4e62-4164-ab55-af7290228597.jpg
+	https://image.neoflat.net/WAcdE4f1Rcp4OscNs56dp0y4hzM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/e0426d6c-8da0-47d9-b235-6d0b65d663b7.jpg
+	https://image.neoflat.net/sd5Rq_vdEHe8oblzW_2k9VmvfxY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/307a8618-0a96-45c9-8513-7ed9a7bab87c.jpg
+	https://image.neoflat.net/mIKt7Rdt8_ZXM3_1Iy4KUgC0S7s=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/66247a27-439c-4a56-97a9-28d1ceb72976.jpg
+	https://image.neoflat.net/yO3DDbxudZL_qIJcMbEZwzBfTAw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/d83bcc38-686d-4f2b-87d5-4cc406f3bff0.jpg
+	https://image.neoflat.net/Wo9e5pga59_4c5PHBrphkd8n37A=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/23744676-07fc-47b7-98f5-82af7d825a16.jpg
+	https://image.neoflat.net/6RUv26FLZ5TfnZHt8bYSqDfJMWE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/d9953352-d7b3-47a0-8a20-87db2f15d27f.jpg
+	https://image.neoflat.net/kOOqHPle1KMJyxdI2XJQ9vyr1X0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/d95a11aa-2c08-4e27-aa9c-dfd6ff8517b0.jpg
+	https://image.neoflat.net/EwWq2uN9Cb4QOdrfV68PukswTH8=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/a5320cbf-a515-4e48-b99b-f30b8dce49b1.jpg
+	https://image.neoflat.net/oYIbMjDheU_b9GcY20jU8lQWrBY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/6cf7d566-167b-4338-b255-aa7323aea8db.jpg
+	https://image.neoflat.net/LRKb7CpOrIIl1yjwBb1ZregtiKE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/9bdd0ee0-54a7-452b-b4b7-29fc897afcb8.jpg
+	https://image.neoflat.net/2ag7C-TyliQAFL0Ixe1uL0tv-yE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/bd2f820b-84da-431c-b150-66536e1730e4.jpg
+	https://image.neoflat.net/NJKvMn5lAajNb6biNp026pTyd6E=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/c973891f-158f-4f52-8122-9fb690fb89b5.jpg
+	https://image.neoflat.net/r8I0spfjNP4caiLvF9k9cbjA_yQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/024017ca-a96c-4e26-a356-74f3074a6208.jpg
+	https://image.neoflat.net/4C50LRllLzNZyggPn8GNcVFQBgQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/6744aefd-1913-48b2-b746-28d918adf430.jpg
+	https://image.neoflat.net/o0iVjnMxvEgDCJcyT8IwsXH3F2Y=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/5017e7bf-568b-4556-87be-89c2c496a8f2.jpg
+	https://image.neoflat.net/uvzU87_veeGc2Gq0oBVrNg93JcM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/0c1cda15-63e6-434d-a892-526eb998ef47.jpg
+	https://image.neoflat.net/Ko5GVAg8iLhOffTKIqdVhEQ79G0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/432095c5-4f8f-4ee6-9cef-e670f919a15e.jpg
+	https://image.neoflat.net/IUsutnjCL8akVYGZA2pGZO9RSCI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/71872d86-9420-4d50-97e5-640007de600b.jpg
+	https://image.neoflat.net/o-uzWMswENF5WB994V5NB2DyRmg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/118c9c3f-2950-4a45-9177-81efd00a4156.jpg
+	https://image.neoflat.net/yvBJ4kfqmM03RPMmzJLqa40NEdQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/e9c9f596-7e0a-4590-ae4f-8f92afdf0dda.jpg
+	https://image.neoflat.net/TJRTrB4HK6Y7Hifsj0pi3Fabdfg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/551f1bc1-bb4c-4bce-bff7-5051dd44b1fe.jpg
+	https://image.neoflat.net/-A61MY4JRUO6s3Qpsz0O5dS3eE8=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/501761e5-805a-4c34-ab08-7b5cee5c6fdf.jpg
+	https://image.neoflat.net/qm_oDMLHoYU6E2TkzO9zRPEyieY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/bdcfa472-adaa-4e9f-beea-d7138e941a41.jpg
+	https://image.neoflat.net/l2aPqzu0ZR6sRZQ0J0A6VM2xEOs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/2b760c7b-30f6-4001-be96-916e3a88e424.jpg
+	https://image.neoflat.net/OnXs2Md-uzf9FquuiKmmF0KuVgM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/f1c6b23f-db4b-4eff-b2e9-3a3b9ef71f9a.jpg
+	https://image.neoflat.net/Kxw8nc7JYkx_iBIoZ_VlvOPISxs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/1ae0cf83-a364-4494-a1e0-49b7570e4312.jpg
+	https://image.neoflat.net/C0T0LH8kgLMUfGPed8nlrklKt0k=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/c3f92062-e00e-44f4-b2d6-dbcff865f223.jpg
+	https://image.neoflat.net/3j7y6HIfGgrVPvA43UCLWzuIR7g=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/f6cfc023-832c-4f14-a942-84fc3b9673a9.jpg
+	https://image.neoflat.net/xFES6VqoW2ZKC3oBTTkV9mZJYBM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/1a6349d3-6f64-4904-9594-55624a3e3381.jpg
+	https://image.neoflat.net/OQuyQao6nglTDzTsFXGRActuejg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/1af71506-3129-4d84-9103-df838837f464.jpg
+	https://image.neoflat.net/Zsb-UZuQH2gJm_18c8wXWMVQLIs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/3fa66719-39c9-4a45-ac2f-bb2a1d8444a8.jpg
+	https://image.neoflat.net/GBl7s7BvXpDEoK_4CFIHsbw__7w=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/f2044325-0b90-4917-bb5c-869fe26c1cc3.jpg
+	https://image.neoflat.net/0MjMqBAryT4n-TwXgHmaPq4eaI8=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/f5340b3a-4e62-4164-ab55-af7290228597.jpg
+	https://image.neoflat.net/WAcdE4f1Rcp4OscNs56dp0y4hzM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8102/e0426d6c-8da0-47d9-b235-6d0b65d663b7.jpg
+고시원 소개문: 
+	아늑하면서 프라이빗한방, 전객실 샤워룸
+그리고 와이파이 등은 입실자 분들이
+지내시는 동안 쾌적하고 편안한 주거환경을
+경험할 수 있습니다 주변에 역세권을 끼고 
+먹자골목 맛집, 롯데백화점, 신세계백화점, 스타벅스, 다이소, 영화관까지 인프라가 굉장해서 멀리나가지 않으셔도 다 해결이 되는 위치랍니다~
+
+* 대중교통 
+영등포역4분거리로 먹자골목에 위치해, 대중교통은 문제 없답니다!^^
+
+*안전
+사각지대 없이 CCTV촬영  하고 있어요.
+외부인은 들어올수 없도록 입구와 각방에
+최신식 디지털도어락을 설치했어요.
+대로변에 있어서, 밤늦게 귀가해도!
+새벽에 들어와도 어두운골목없이  안전해요!
+
+*개인공간
+깔끔하고 모던한 인테리어로 꾸며놨어요
+각방에는 침대와 책상, TV, 개별냉장고, 가구, 조명이 설치 되어있어요  물론 전자도어락도 설치 
+해놨죠~^^
+
+젊은감각으로 내집처럼 깔끔하게 관리중인
+하이리빙텔입니다^^
+궁금하신 사항은 언제든 문의주세요!
+
+
+고시원 이름: 
+	위너하우스
+고시원 위치: 
+	신길역 도보 7분 (신길동)
+	서울특별시 영등포구 신길동 95-269
+고시원 보증금: 
+	보증금 5만원
+고시원 월세: 
+	월세 24-28만원
+고시원 이미지: 
+	https://image.neoflat.net/yzfCIyZaDZSRtIsPu7z6gLWfELE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/6be2959c-091a-442f-b9de-a6ebdbaa9fc9.jpg
+	https://image.neoflat.net/yzfCIyZaDZSRtIsPu7z6gLWfELE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/6be2959c-091a-442f-b9de-a6ebdbaa9fc9.jpg
+	https://image.neoflat.net/8g7SPYLLdjK_QtQf-vFeKq9slI4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/05daf09a-3635-45d9-a687-772de554fa49.jpg
+	https://image.neoflat.net/lzFu_0-hj_08HS9oLwfIFVVn9t0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/e7aa8ff7-2172-4200-8b83-bad40dc6af6e.jpg
+	https://image.neoflat.net/6c-6s2Af9TT4Xgg6-asl77yy1yY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/18947145-6eb4-4842-a896-0e068b8238e3.jpg
+	https://image.neoflat.net/0jCDJ2uuPijUXbBVYT9L5eagii4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/2c3c6068-cf32-4fe8-af64-d91fe3b93f19.jpg
+	https://image.neoflat.net/jhxV2auQRSzCjlwiPxJNbHIG9ik=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/79fa350e-06ed-4c7c-b122-eb356c9b0508.jpg
+	https://image.neoflat.net/rMPSNNqHfKQEwsyoTU3LGXCiwpc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/d75d3b10-0724-42bc-8a9d-6dfdaf5f2a04.jpg
+	https://image.neoflat.net/oiOAdJDQ9l1IJcCNN86BRgTbaZA=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/d17b9ed4-5414-4c1b-9e5c-08ae8a5ae7d5.jpg
+	https://image.neoflat.net/MXgDdUCUz5iomYQNvF-5b-sQKPo=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/778e8f2e-cc79-4bbd-b168-aa061d586117.jpg
+	https://image.neoflat.net/oFSCULyilfK2MveV30di-0ngGoo=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/9e44b6ac-b7a6-4ea9-b1d4-be63000e0c66.jpg
+	https://image.neoflat.net/yzfCIyZaDZSRtIsPu7z6gLWfELE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/6be2959c-091a-442f-b9de-a6ebdbaa9fc9.jpg
+	https://image.neoflat.net/8g7SPYLLdjK_QtQf-vFeKq9slI4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6366/05daf09a-3635-45d9-a687-772de554fa49.jpg
+고시원 소개문: 
+	➡️➡️➡️ 룸 부분인테리어완료! 새침대커버 제공! 🤩🤩🤩
+
+➡️시설안내
+1. 여성전용3층,  남성전용4,5층, 엘리베이터유
+2. 무료건조기와 건조실 구비
+3. 옥상 (휴게실  + 실내 실외 빨래 건조대) 24시간
+ 자유이용
+
+자세한 문의는 언제든 전화주세요~^^
+
+
+고시원 이름: 
+	싱글레지던스 원룸텔 영등포점
+고시원 위치: 
+	영등포시장역 도보 5분 (영등포동4가)
+	서울 영등포구 영등포로36길 3 3층
+고시원 보증금: 
+	보증금 5만원
+고시원 월세: 
+	월세 32만원
+고시원 이미지: 
+	https://image.neoflat.net/VR2GAJsooK2bW60LGASwXZi2rY4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/fcaec5a0-1c6b-4b7d-a060-a3a63b16b0a1.jpeg
+	https://image.neoflat.net/VR2GAJsooK2bW60LGASwXZi2rY4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/fcaec5a0-1c6b-4b7d-a060-a3a63b16b0a1.jpeg
+	https://image.neoflat.net/XdNojio_kZkaEtpO83y28DdR8_0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/db74c359-50fb-4dbe-8fd2-d7b28fe28183.jpeg
+	https://image.neoflat.net/K66a-SDZSHP57pSb65ZP5FrXND0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/cd8ff665-6820-462e-a5d1-67d8bcc88cb3.jpeg
+	https://image.neoflat.net/XsxGXRZJSYsS17ROTcpk84W-UWk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/6ebe339b-796b-4d8c-9dc6-d8aa7c13ee76.jpeg
+	https://image.neoflat.net/VG_Cppv7YXeZ95bdRnjkgEiW1UE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/8489bff7-367b-4996-99ac-a5c4f20d7a93.jpeg
+	https://image.neoflat.net/ZoO_yJNxtIe7jbffRXjogA4qf9w=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/0c8f04b3-3bb9-4f93-b450-0e5f420c8414.jpeg
+	https://image.neoflat.net/i8s76RQC0zH420964lltAiVdfNc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/a48a9702-d8fc-40f7-879d-ffaa2758426c.jpeg
+	https://image.neoflat.net/YEeodaN9aRvNPuK5Qur30mXW9_Y=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/dfb16404-7076-48e2-9f2a-5c2df89f877d.jpeg
+	https://image.neoflat.net/r64a_TzYYev6OTNi-GF_0BnQvi0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/50b1451e-e50c-434d-a683-ad7f5cb9cd7f.jpeg
+	https://image.neoflat.net/99jeq0XNNbgB8XwSoKzzdCD-Tq0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/3e0fd4d1-1a1d-4501-be05-59012275dac4.jpeg
+	https://image.neoflat.net/Z0LfaABHfnLE9YJODvqsHSMmFBs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/8b60a192-3daa-46ee-b2d2-58b353bad4f4.jpeg
+	https://image.neoflat.net/m_-ogmLCK6ooR4KA2dM9DZCymYI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/4910cd81-bcff-40ac-adc5-4e03b67f535f.jpeg
+	https://image.neoflat.net/s4H6vVaDccb7Ke10VzMGGh8QoBE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/a85ef3e0-2029-41e4-a4cd-e4805957fd7b.jpeg
+	https://image.neoflat.net/dDWlqq1gsvXOE4Fguy1ZKLClHB4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/1fe8923b-bbe6-4f77-a6f1-bd31c18e16e8.jpeg
+	https://image.neoflat.net/xfn4VHRO_wT_JZPCzeKua4QztUI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/5ced8395-1e84-4031-bba5-331c5997e691.jpg
+	https://image.neoflat.net/DcwAwFeABARtcS8g6sISldoa0iw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/723046c8-60d4-4973-a44f-5f451c017005.jpg
+	https://image.neoflat.net/WbXB10xU_JsBGPyETJ9F40y3YfI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/1e10d5f6-120c-417d-8570-1670c3fbd873.jpeg
+	https://image.neoflat.net/e9RivVq3jj7lxSAfKQqSXLlonhE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/1522c10d-640a-4644-ac57-2e01d8c01f8e.jpeg
+	https://image.neoflat.net/Cb2f2AUu2pI3BJeUGXb8k6KhEPc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/9c91e826-9e86-4264-979a-b0db27f0cbaa.jpeg
+	https://image.neoflat.net/ZI9_0Cf8f0cnh7RjTC8F28fcBfs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/4cdea2ff-37f4-4fde-aa33-6f5ef01cb9be.jpeg
+	https://image.neoflat.net/aDve59ZMnHkNRDRHoO2GMeH0S_w=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/381b7986-685c-4692-bed3-532df7a00be3.jpeg
+	https://image.neoflat.net/eUhU7KQUSCqXKhixlw2-0PH2roA=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/8649ee64-0223-41fc-9091-465d32727974.jpeg
+	https://image.neoflat.net/YzJl26LR_KzzYiJoVrbVtal3Miw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/5e7274f0-b139-4e55-aa11-e3390d33f9f4.jpeg
+	https://image.neoflat.net/-1pyXZ-MwBY-rchyIzR-wHjmiwU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/b11d78b4-a096-4476-8fe8-c5d4660cdb74.jpeg
+	https://image.neoflat.net/u7eryvnlANvBosL_sFFovRFp6f0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/57e7cfc8-9a0d-4042-b5d5-aae35e8b247b.jpeg
+	https://image.neoflat.net/ByMEoiD5oflH1ZErAIZOBcEPLZY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/701ef262-b8a3-4037-b3d7-703dd2590f3e.jpeg
+	https://image.neoflat.net/Hi2nleBT_jPuzQWN5bnfTJNjd0U=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/0ba095dc-4e2e-47a6-ada8-a2b3f49327fd.jpeg
+	https://image.neoflat.net/3lHshJMHlbeY9MHVpPBXTjGZSjs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/23c7b367-63cf-4f71-b4c6-4cedaaa8a2a7.jpeg
+	https://image.neoflat.net/7M0ei5nPi6OS7cew-GR6_2jPzgE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/e70d3828-b7f9-4c71-81ce-22326beec511.jpeg
+	https://image.neoflat.net/uAxnezwNeoMmt3LX4aS3grljxPM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/d9c8a403-8a86-4a8f-b958-533e3cfb66a2.jpeg
+	https://image.neoflat.net/UecTtpxmUbmrj66lrUbAWM8ZNIA=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/23ef260a-7161-486e-9754-e41757faa006.jpeg
+	https://image.neoflat.net/M0n93mn-MMDTW6FyZN5xmANe3oQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/533cf84d-9c7c-4a97-be95-74c88829ca6f.jpg
+	https://image.neoflat.net/7hUWvTSAMYgPpGndi6WHcujRwDc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/8b8d2b93-5e18-4a22-a5fb-7b254b22d699.jpg
+	https://image.neoflat.net/LO3xFe9GjiqD2ZM6NT7jE224sOI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/7ba785be-30d2-432c-ba11-d3f746487706.jpeg
+	https://image.neoflat.net/aFBfA9npOVofDnIrFXiXpzXujhk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/5c543b09-4d41-4a9f-a831-4721fc7a6181.jpeg
+	https://image.neoflat.net/7tmFooTRuXt63Wt4Kz5sjm9xrF0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/7a5b9afa-83cd-4f4e-9e9f-486f9fe95d61.jpeg
+	https://image.neoflat.net/dPcufVNzCRF4MZLAR2diPcj37xQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/5bcaa919-1246-41a0-b8c0-552a1f83c7da.jpeg
+	https://image.neoflat.net/VVaU48A-szAeD9BHSVErup4-9zs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/552c2f9f-e660-4842-9ba6-db7eff8022bb.jpeg
+	https://image.neoflat.net/v4PNdoPUCty1ajW0X3DxLSR_DrE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/26deefcb-b1bd-4f7e-94af-1365fd1b8ddb.jpeg
+	https://image.neoflat.net/dqCXMv5kHjbgkUnBX-ILioqIXEw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/6df89bb4-b34a-4d37-861b-0356f33293ea.jpeg
+	https://image.neoflat.net/VR2GAJsooK2bW60LGASwXZi2rY4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/fcaec5a0-1c6b-4b7d-a060-a3a63b16b0a1.jpeg
+	https://image.neoflat.net/XdNojio_kZkaEtpO83y28DdR8_0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/5933/db74c359-50fb-4dbe-8fd2-d7b28fe28183.jpeg
+고시원 소개문: 
+	1월 선착순 이벤트 1명📢
+✨원룸 첫달2만원 할인✨
+
+[24년 8월 방 내부 리모델링]
+저희 싱글레지던스는 살기좋은 원룸입니다.
+관리비/공과금 제로인 싱글레지던스에서 나만의 원룸을 만나보세요.
+
+*아침저녁으로 쌀밥을 직접 합니다
+갓지은 따뜻한 밥으로 든든히 식사하셨으면 하는 마음을 담아 쌀만 제공하지않고 밥을 해드립니다.
+
+*전기세를 아끼지 않습니다.
+여름엔 덥지않게 겨울엔 춥지않게 사계절 신경써서 관리하고 있습니다.
+원격어플로 항상 실내온도를 체크하고 있습니다.
+
+*영등포에서 살기좋은 최상의 조건을 갖추었습니다.
+바로 앞 지하상가로 걸어다닐 수 있어 바깥으로 걸어다니지 않아도 됩니다.
+지하상가는 영등포역,타임스퀘어,다이소,스타벅스 모두 이어져있습니다.
+
+*생활에 필요한 주방, 세탁, TV, 와이파이 모두 준비되어 있습니다.
+
+*[자격증 학원, 병원, 미용실 등 교육 및 실습]으로 
+영등포에 오신 분들의 단기 숙소로도 이용하실 수 있습니다.
+
+[개인시설]
+편안한 침대, 책상, 의자, 옷장, 냉장고
+LED TV모니터, 초고속 인터넷, WI-FI
+스프링쿨러, 화재감지기, 휴대용조명등, 소화기
+각 방 건조대 제공
+
+[공동시설]
+냉장고, 압력밥솥, 정수기, 전자레인지, 인덕션, 조리도구, 식용유/주방세제
+LG/삼성세탁기, 세탁세제
+각 층 출입문 도어락
+
+[특징]
+1층 편의점, 바로 앞 은행, 버스정류장
+
+[남자 전용층, 전용주방]
+[카드결제/현금영수증/전입신고 가능]
+[이벤트 결제시 중도 환불 불가능]
+
+** 환불정책 **
+퇴실 2주전 미통보시 위약금 20%발생하오니,
+꼭 2주전에 말씀해주시기 바랍니다~
+
+
+고시원 이름: 
+	굿스테이 원룸텔(대방점)
+고시원 위치: 
+	보라매역 도보 10분 (신길동)
+	서울 영등포구 여의대방로 219 2층
+고시원 보증금: 
+	보증금 10만원
+고시원 월세: 
+	월세 40-70만원
+고시원 이미지: 
+	https://image.neoflat.net/YOQmxpmeNMCUKzpkC3BjY1segTE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/4b62bef2-c2d6-48cd-bf40-13b58178b0af.JPG
+	https://image.neoflat.net/YOQmxpmeNMCUKzpkC3BjY1segTE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/4b62bef2-c2d6-48cd-bf40-13b58178b0af.JPG
+	https://image.neoflat.net/VYpGOs_Nkz8H9MgskvZtUzg3fP4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/db175eed-be89-4fed-800c-6e97479805d8.jpg
+	https://image.neoflat.net/gh_TDALt0PRO96c9MNro49E7cXI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/1c9568c8-1191-49eb-b5a1-2cf38853d879.JPG
+	https://image.neoflat.net/SkKxfMg3zyHRsJqXEghjJtb0AlM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/1d55a80f-afad-4a7b-9999-3d090a7eb4d6.JPG
+	https://image.neoflat.net/8-5GzkatcLDyRTu0M5nl4YsYqG0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/4b14dd69-818a-4166-b662-53d7f390e3fe.JPG
+	https://image.neoflat.net/7lK3S8jY91Ur5Q6rP13K3pcEpYg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/4fac5a4c-c4e0-4553-94f7-4f735924571c.JPG
+	https://image.neoflat.net/jom07axe50RyrxGWPiJChJetf84=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/49a49806-d479-4b20-be38-3231efdb40e2.JPG
+	https://image.neoflat.net/O6aC4TvPCGsNkYLiwaAXA2qpFY4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/f64ec30b-4c75-4e10-8ced-c77a3bd6f12a.JPG
+	https://image.neoflat.net/p2QAJS452NGpaDCnDCSIdagnUF4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/2fbda285-7ad6-427c-b041-6ca92d123111.JPG
+	https://image.neoflat.net/09XQptL8knFHiWPLU9uNqYgzhdc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/db9b7d9d-71f7-41fc-ba79-094c539c1c58.JPG
+	https://image.neoflat.net/DEqAM-U5pFeXwQC_apQt182R_0Q=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/91d48fcb-9a16-47ff-be1d-a930dd29821f.JPG
+	https://image.neoflat.net/PgLNAxOoN208105-EOV3uNjFBjs=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/c3053987-cdc1-4b5e-8b88-20bcc9e57d05.JPG
+	https://image.neoflat.net/WKCahFe8S7XLC2yEycdSniljNE0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/b703bd25-86bb-4321-b328-665c744f2b70.JPG
+	https://image.neoflat.net/FNGq0jyyApuNrN4SHnBSTmyyXeQ=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/c2b8387a-ba7e-4e2e-8c2d-e7170f4fd038.JPG
+	https://image.neoflat.net/oIJ4QpRQEIsjYzucCujV9bd4hAI=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/0e444b02-6bb5-4f16-b557-18bedb282bd4.JPG
+	https://image.neoflat.net/ThLu4PHJOtjyutSqeA9Vec9Sdgc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/aaa859fc-406b-4786-b0ef-60465d987717.JPG
+	https://image.neoflat.net/YF_C9XSeETkOnGSl-hSbFA6jg8c=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/b1aa288a-398e-45a6-b07f-c51330ce7dd5.JPG
+	https://image.neoflat.net/UpJYdE9eWRCiUf0MEmNscm_8xdw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/741ad686-dd73-4327-bccd-2cf08153cbe2.JPG
+	https://image.neoflat.net/kiwR-REHEI_X6V5ZW_5guHzsO_0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/b84180ea-8d15-4971-9dcd-843d029ad9e8.JPG
+	https://image.neoflat.net/mLlvzMbkFQwixwrnOUX8M16F0jU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/cc989188-1ce2-42b9-b73b-22d5e669160b.JPG
+	https://image.neoflat.net/UWjkZZvU1B4Ows1UZAT7Ffbc67M=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/7082f9e2-0d98-4792-a052-4deb9e51460c.JPG
+	https://image.neoflat.net/NyWuN0Lhq5xAZ7THZLUNmojHszk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/9f332577-1be8-4883-8b12-7a60b96f3a5b.JPG
+	https://image.neoflat.net/0suqZVbiKMwt9e92ZDWI7bgV4t0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/13f199a8-9730-43cc-bd46-5f30db53398b.JPG
+	https://image.neoflat.net/0oco8GOlxhHQOzIkjlLYr-BBO0I=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/3a058247-4546-410a-a2c3-3e6a55e187de.JPG
+	https://image.neoflat.net/4UD9h1-ArJ84wFUvUgNZV89ySKc=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/9c41cf75-ab46-47b0-9c18-4a15ef63fc01.JPG
+	https://image.neoflat.net/Rrpp6_xp99jg_tTl4b8z47NPwfg=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/d197699a-32bf-477c-b8e3-6a27dd709bbd.JPG
+	https://image.neoflat.net/1tQbJjm4_xCZvM5vabyrBTgdlck=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/6e81d9b0-d3c3-4a28-a2e6-7c5499eeee68.JPG
+	https://image.neoflat.net/zgY6yIoqi4uDpXYXHIo6gQ7LLnw=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/8dc4b755-2ca9-40a4-8807-f0f28bb466c6.JPG
+	https://image.neoflat.net/YOQmxpmeNMCUKzpkC3BjY1segTE=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/4b62bef2-c2d6-48cd-bf40-13b58178b0af.JPG
+	https://image.neoflat.net/VYpGOs_Nkz8H9MgskvZtUzg3fP4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/2819/db175eed-be89-4fed-800c-6e97479805d8.jpg
+고시원 소개문: 
+	지하철 신림선 서울지방병무청역 2번 출구에서 도보로 3분,
+1호선 대방역 6번 출구에서 도보로 10분,
+7호선 보라매역 6번 출구에서 도보로 10분,
+트리플 역세권 사이에 위치하고 있어 대중교통 접근성이 뛰어난 위치입니다.
+
+다이소, 하나로마트, CU편의점이 가까이 있어 생활에 불편함이 없습니다.
+
+노량진고시촌, 병무청, 여의도와의 접근성이 뛰어나 직장인 뿐만 아니라 수험생도 편히 머무실 수 있도록 전문업체의 첨단 시공을 통해 방음과 생활 편의에 많은 신경을 썼습니다.
+
+언제든 편히 머무실 수 있도록 최선을 다하는 굿스테이 대방역점에 편히 방문해주세요^^
+
+감사합니다!!
+
+** 환불정책 **
+모든 원룸 계약은 선불로 이루어지며,
+기타 사정으로 인한 조기 퇴실 시, 잔여 기간을 산정하여 환불
+퇴실 1주일 전 통보 필수
+
+
+고시원 이름: 
+	해나하우스 대방점
+고시원 위치: 
+	신길역 도보 9분 (신길동)
+	서울 영등포구 도신로53길 10
+고시원 보증금: 
+	보증금 10만원
+고시원 월세: 
+	월세 37-73만원
+고시원 이미지: 
+	https://image.neoflat.net/WsxyY6Ayaqvs9Td_dSTbsuHkv7M=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/31d12f32-7c44-4ddf-8dbd-f72b3fd8d618.jpg
+	https://image.neoflat.net/WsxyY6Ayaqvs9Td_dSTbsuHkv7M=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/31d12f32-7c44-4ddf-8dbd-f72b3fd8d618.jpg
+	https://image.neoflat.net/muJi6jRJj1h3pMiyislpKlKFjBM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/f8ebee06-a127-4128-9639-0c5e522d6ac6.jpg
+	https://image.neoflat.net/XH-Gz-Cv9wz03Hk82VEjRDQWPdY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/6e4487f1-0c4c-4bbe-a63b-34d1585ef5dc.jpg
+	https://image.neoflat.net/oJd3IP0pzbVn-FguMB5eC05TgCk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/74e23509-b339-47bd-af62-8484a467c986.jpg
+	https://image.neoflat.net/Rw-FZnXaYvjeh0vizwW5bSJZh_0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/0c767a7f-14ab-475a-8d7a-6cd966e692a0.jpg
+	https://image.neoflat.net/-MR8OOAejgbexr3lENpYcillpdY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/a3dfa2ed-cd50-4b07-ae31-d850109c7960.jpg
+	https://image.neoflat.net/OSDUGdt7PCH6i3Zq8INBDiVzoO8=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/edf4b992-30e0-4306-9870-74d222dd164d.jpg
+	https://image.neoflat.net/02q12bQYAhnDxRovEA9bjpT1PfY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/9b240454-7b1f-4105-b9b6-08b293dfcbdd.jpg
+	https://image.neoflat.net/6oIC7nrfXwaZ2sn5iJEaTvA_q8o=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/18b4fe62-5595-49a3-a690-e7412fe68883.jpg
+	https://image.neoflat.net/M4rsvapCROiuuQcGo4m9Q74Iyg4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/40b928b0-3d87-41b0-956d-81241fe534a8.jpg
+	https://image.neoflat.net/J56jkeqEH39sHGNQlTXcpIg8_u0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/c6b7e746-0461-473c-b5c7-2668e2bb1759.jpg
+	https://image.neoflat.net/628MKvLSSNvNnVV6yABM6nQ-Btk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/45797b62-ba50-4e53-b692-8a1dfc136615.jpg
+	https://image.neoflat.net/eE1vsWTDHr3HQF8rzAzLrVgkT0M=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/7f82aa44-f22a-4770-864f-818ead61bc27.jpg
+	https://image.neoflat.net/ZcPaXkhwITiH5OjRZzPwnozNX8I=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/4f589086-3ef1-4c8d-accd-6b5e557d039f.jpg
+	https://image.neoflat.net/d5b3qApG9d0VssRGBaZMbG2aKsk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/7596f982-d5da-4868-805e-55d86d23ee7f.jpg
+	https://image.neoflat.net/3p98SgfajNr1C7XGO7LnLAS0Tss=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/81ca376a-c427-4cef-b92d-e33bbca108ef.jpg
+	https://image.neoflat.net/EnQ8liJwrHI-wBDN2Ia1oH1HB2Q=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/8e84b008-c9e6-4f42-84d5-e0e22da05edc.jpg
+	https://image.neoflat.net/vXDUYc-kzPqxvy0oRha99a_QQI4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/d1faaafd-ae87-4849-9e15-b81490f26280.jpg
+	https://image.neoflat.net/yoEB_qgvQ9yGGXh2kwBw1V8eLb4=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/7b88b5af-aaa7-45a1-b503-2da828411257
+	https://image.neoflat.net/3xDQzcyAyhxAsO2fw9Pz7u9_qG0=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/c86c4f49-eac3-4c7c-bf32-6dde62f8ee2f.jpg
+	https://image.neoflat.net/2ouRJQtjfR1_F_q_N2V9T6fKYrY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/b8567dd3-961a-47a4-9cf8-be511f37a6d8.jpg
+	https://image.neoflat.net/1C9arvOWE6MQ5_SoJryACD-bw-c=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/3d525b25-e2e6-455b-a531-71dc3f0b841f.jpg
+	https://image.neoflat.net/WsxyY6Ayaqvs9Td_dSTbsuHkv7M=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/31d12f32-7c44-4ddf-8dbd-f72b3fd8d618.jpg
+	https://image.neoflat.net/muJi6jRJj1h3pMiyislpKlKFjBM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8604/f8ebee06-a127-4128-9639-0c5e522d6ac6.jpg
+고시원 소개문: 
+	안녕하세요? 2023년 1월 GRAND OPEN!!
+해가 나듯 따듯한 공간,  프리미엄 고시텔 해나하우스 대방점(신길)입니다. 
+온 마음 다해 가장 쾌적하고 편안하고 살기 좋은  주거 공간을 만들기 위해 노력하겠습니다. 
+
+< 체크포인트 하나,  룸 컨디션은?>
+- 최신형 개별 에어컨
+- 최신형 투도어 냉장고 (냉동고 사용 가능)
+- 튼튼하고 넓은 수납력 ( 모든 수납장 도어 설치)
+- 특수 단열 도배 (곰팡이 걱정 N0)
+- 개인 도어락
+- 환기가 잘되고 채광 좋은 큰 창  (외창비율 80%이상)
+- 넓은 화장실
+- 초고속 인터넷 / 개인 WI-FI
+
+<체크 포인트 둘,  공용 시설은?>
+- 분실 걱정 없이 무인택배함으로
+- 주방 3개로 편안하게 사용 가능
+- 정수기, 인덕션, 전자렌지. 전기밥솥(쌀) 등 최신 새 제품  및 식기류 제공 
+- 세탁기 4대 / 건조기 2대 설치 
+- 옥상 사용 가능 ( 옥상 흡연 가능)
+- CCTV 32대 실시간 녹화
+- 호텔 인테리어
+
+<체크포인트 셋, 입지는?>
+- 교통 편리! 신길역 도보 10분 이내 거리 / 바로 앞 버스 정류장
+- 맛집 및 다이소, 버거킹,  메디컬 빌딩, 은행 등 상권 최적!
+- 5층 단독 건물로 소음 및 냄새 유발 업소 없이 편안하게 
+
+

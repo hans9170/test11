@@ -1,0 +1,36 @@
+/**
+ * 
+ */
+ document.addEventListener("DOMContentLoaded", function () {
+    const regionSelect = document.getElementById("region-select");
+    const districtSelect = document.getElementById("district-select");
+    const searchBox = document.getElementById("search-box");
+    const searchBtn = document.getElementById("search-btn");
+    const cardContainer = document.getElementById("card-container");
+
+    // 예제: 지역 선택 시 시/군/구 목록 업데이트
+    const districts = {
+        "서울": ["강남구", "서초구", "종로구"],
+        "부산": ["해운대구", "부산진구", "남구"]
+    };
+
+    regionSelect.addEventListener("change", function () {
+        districtSelect.innerHTML = "<option value=''>시/군/구 선택</option>";
+        const selectedRegion = regionSelect.value;
+        if (districts[selectedRegion]) {
+            districts[selectedRegion].forEach(district => {
+                const option = document.createElement("option");
+                option.value = district;
+                option.textContent = district;
+                districtSelect.appendChild(option);
+            });
+        }
+    });
+
+    searchBtn.addEventListener("click", function () {
+        const query = searchBox.value.trim();
+        if (query) {
+            alert("검색 기능은 아직 구현되지 않았습니다: " + query);
+        }
+    });
+});
