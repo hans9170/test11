@@ -94,6 +94,11 @@ nav ul li a:hover::after {
     text-decoration: none;
 }
 
+
+
+
+
+
 .body-container{
     margin: 0 auto; /* 양쪽 여백을 자동으로 설정 */
     padding: 0 10vw !important; /* 좌우 여백 추가 */
