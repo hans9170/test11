@@ -33,7 +33,7 @@ nav ul {
     padding: 0;
     list-style: none;
     display: inline-flex;
-    gap: 30px;
+    gap: 30px;/
 }
 nav ul li {
     font-size: 1.5vw; /* 화면 크기에 따라 폰트 크기 조정 */
@@ -68,6 +68,7 @@ nav ul li a:hover {
 nav ul li a:hover::after {
     transform: scaleX(1); /* 밑줄 표시 */
     transform-origin: left;
+    background-color: #f8f8f8;
 }
 
 .login-container {
@@ -193,7 +194,7 @@ footer>p{
 }
 .swiper {
     margin: 0 auto;   /* 중앙배치 */
-    width: 80%;          /* 너비 조정 */
+    width: 100%;          /* 너비 조정 */
      max-width: 900px;     /* 최대 너비 제한 */
      height: 440px;        /* 높이 조정 */
      position: relative;   /* 자식들을 묶기위해서 relative로 했다 */
