@@ -33,7 +33,7 @@
     </header>
     <div class="body-container">
         <section class="menu">
-            <h2><a rel="" style= "color: #378dd8;">김하나</a>&nbsp;님 환영합니다!</h2>
+            <h2><a id="nickname" style= "color: #378dd8;">김하나</a>&nbsp;님 환영합니다!</h2>
             <div class="editinfo"><a href="#" id="editInfoBtn">회원정보수정</a></div>
         </section>
             <div id="editInfoModal" class="modal">
@@ -41,14 +41,12 @@
                     <h3>회원정보 수정</h3>
                     <span id="closeModal1" class="close">&times;</span>
                 </div>
-                <form>
-                    <label for="username">이름:</label>
-                    <input type="text" id="username" name="username" value="김하나"><br>
-                    <label for="email">이메일:</label>
-                    <input type="email" id="email" name="email" value="hana@example.com"><br>
-                    <label for="password">비밀번호:</label>
+                <form action="" method="">
+                    <label for="username">변경할 닉네임:</label>
+                    <input type="text" id="username" name="username"><br>
+                    <label for="password">비밀번호입력:</label>
                     <input type="password" id="password" name="password"><br>
-                    <button type="submit">저장</button>
+                    <button type="submit" name="save">저장</button>
                 </form>
             </div>
         <section class="watched">
@@ -63,7 +61,7 @@
                     <p>대방역 도보 1분 (신길동)</p>
                     <p>서울 영등포구 여의대방로62길 4 신한빌딩 3~4층</p>
                     <p>월세 45~60만원</p>
-                    <p>⭐️⭐️⭐️⭐️</p>
+                    <p>⭐️<span class="rating"></span></p>
                 </div>
                 <div class="card">
                     <img src="https://image.neoflat.net/btzL5VI9EdHFp90MPjoEAEEflvU=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8897/80b98949-683c-4e0b-88af-c65e71a1c944.jpg" alt="고시원 이미지">
@@ -72,7 +70,7 @@
                     <p>대방역 도보 6분 (신길동)</p>
                     <p>서울 영등포구 영등포로84길 21</p>
                     <p>월세 34-42만원</p>
-                    <p>⭐️⭐️⭐️⭐️⭐️</p>
+                    <p>⭐️<span class="rating"></span></p>
                 </div>
                 <div class="card">
                     <img src="https://image.neoflat.net/TnnsYiu30Rk5z3_KphR-A872QGk=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/8993/409600b1-1323-4cff-8dc9-84096d5dbffc" alt="고시원 이미지">
@@ -81,7 +79,7 @@
                     <p>구로디지털단지역 도보 7분 (대림동)</p>
                     <p>서울 영등포구 시흥대로 629 2층</p>
                     <p>월세 36-45만원</p>
-                    <p>⭐️⭐️⭐️⭐️⭐️</p>
+                    <p>⭐️<span class="rating"></span></p>
                 </div>
             </section>
         </section>
@@ -101,7 +99,7 @@
                     <p>영등포역 도보 3분 (영등포동3가)</p>
                     <p>서울 영등포구 영중로4길 8 3~4층</p>
                     <p>월세 55-70만원</p>
-                    <p>⭐️⭐️⭐️⭐️</p>
+                    <p>⭐️<span class="rating"></span></p>
                 </div>
                 <div class="card">
                     <img src="https://image.neoflat.net/HKMEhpW8xLKvyRN6uTgIXiNFHWM=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/6932/a6b6dd84-7e2b-4923-aadc-b751419c2924.jpg" alt="고시원 이미지">
@@ -110,7 +108,7 @@
                     <p>신길역 도보 5분 (신길동)</p>
                     <p>서울 영등포구 영등포로72길 3 2층</p>
                     <p>월세 40-48만원</p>
-                    <p>⭐️⭐️⭐️⭐️⭐️</p>
+                    <p>⭐️<span class="rating"></span></p>
                 </div>
                 <div class="card">
                     <img src="https://image.neoflat.net/AG3sLmmVy6wkRcpiwpcZdjC4iCY=/1440x/filters:no_upscale():watermark(/resource/gobang.png,center,center,0,20,none)/house/11529/d4522dd7-cd7e-41bd-8d61-cb15944a43b9.jpg" alt="고시원 이미지">
@@ -119,7 +117,7 @@
                     <p>신길역 도보 7분 (신길동)</p>
                     <p>서울 영등포구 도신로64길 16</p>
                     <p>월세 28-60만원</p>
-                    <p>⭐️⭐️⭐️</p>
+                    <p>⭐️<span class="rating"></span></p>
                 </div>
             </section>
             <section class="menu">

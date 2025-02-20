@@ -11,6 +11,27 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 });
 
+const modal = document.getElementById("editInfoModal");
+const saveBtn = modal.querySelector("button[type='submit']");
+const usernameInput = document.getElementById("username");
+const nicknameDisplay = document.getElementById("nickname");
+
+// 저장 버튼 클릭 시 닉네임 변경
+saveBtn.addEventListener("click", function (event) {
+  event.preventDefault(); // 폼 제출 방지
+  const newUsername = usernameInput.value.trim(); // 입력된 닉네임
+
+   if (newUsername) {
+      nicknameDisplay.textContent = newUsername;
+       modal.style.display = "none"; // 모달 닫기
+      usernameInput.value = ""; // 입력 필드 초기화
+    } else {
+       alert("닉네임을 입력해주세요.");
+    }
+});
+
+
+
 document.addEventListener("DOMContentLoaded", function() {
     const modal = document.getElementById("compareModal");
     const btn = document.getElementById("compareBtn");
@@ -35,6 +56,8 @@ document.querySelectorAll(".heart").forEach((heart) => {
     });
 });
 
+
+
 const compareBtn = document.getElementById('compareBtn');
 const checkboxes = document.querySelectorAll('.compare-checkbox');
 
@@ -51,7 +74,7 @@ compareBtn.addEventListener('click', function () {
     document.querySelectorAll('.compare-checkbox:checked').forEach(checkbox => {
       selectedItems.push(checkbox.dataset.id); // 체크된 아이템의 ID 수집
     });
-
+    
     // 선택된 아이템을 비교 페이지로 전달
     if (selectedItems.length > 0) {
       window.location.href = `compare.html?items=${selectedItems.join(',')}`;
